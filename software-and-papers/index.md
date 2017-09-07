@@ -3,7 +3,6 @@ title: Software and papers
 layout: default
 ---
 
-
 ### Stan
 
 Stan is a statistical modeling language along with inference algorithms for full 
@@ -25,13 +24,15 @@ command line, R and Python (and more).
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/rstan)](http://cran.r-project.org/package=rstan) 
 [![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/rstan?color=blue)](http://cran.r-project.org/web/packages/rstan)
 
-The [R](https://www.r-project.org) interface to Stan.
+The **rstan** package is the [R](https://www.r-project.org) interface to Stan.
 <br> 
 [**website**](http://mc-stan.org/rstan) | 
 [**CRAN**](https://cran.r-project.org/package=rstan) | 
 [**source code on GitHub**](https://github.com/stan-dev/rstan)
 
-#### RStanTools (R)
+<br> 
+**RStanTools**
+
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/rstantools)](http://cran.r-project.org/package=rstantools)
 
 The **rstantools** R package provides tools for developing R packages interfacing with Stan.
