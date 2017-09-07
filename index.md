@@ -12,7 +12,7 @@ layout: default
 Statistician and [Stan](http://mc-stan.org) developer at Columbia University in New York. 
 
 I also do statistical consulting and teach workshops and courses about 
-Bayesian data analysis and Stan.  
+Bayesian statistics and Stan.
 
 [[<i class="fa fa-envelope-o"></i>](mailto:jonah.sol.gabry@columbia.edu){: .awe-ico }]
 [[<i class="fa fa-git"></i>](https://github.com/jgabry){: .awe-ico }]
