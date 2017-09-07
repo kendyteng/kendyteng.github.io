@@ -20,6 +20,6 @@ Bayesian statistics and Stan.
 
 
 * Software I work on and related papers [<i class="fa fa-info"></i>](/software-and-papers/){: .awe-ico }  
-* Andrew Gelman's blog (occasionally I post something) [<i class="fa fa-info"></i>](http://andrewgelman.com){: .awe-ico }  
+* Andrew Gelman's blog (occasionally I do a guest post) [<i class="fa fa-info"></i>](http://andrewgelman.com){: .awe-ico }  
 * Stan website [<i class="fa fa-info"></i>](http://mc-stan.org){: .awe-ico }  
 
