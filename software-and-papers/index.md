@@ -19,10 +19,7 @@ command line, R and Python (and more).
 
 ### R packages 
 
-**RStan**
-
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/rstan)](http://cran.r-project.org/package=rstan) 
-[![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/rstan?color=blue)](http://cran.r-project.org/web/packages/rstan)
+**RStan** [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/rstan)](http://cran.r-project.org/package=rstan)[![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/rstan?color=blue)](http://cran.r-project.org/web/packages/rstan)
 
 The **rstan** package is the [R](https://www.r-project.org) interface to Stan.
 <br> 
@@ -41,8 +38,11 @@ The **rstantools** R package provides tools for developing R packages interfacin
 [**CRAN**](https://cran.r-project.org/package=rstantools) | 
 [**source code on GitHub**](https://github.com/stan-dev/rstantools)
 
-#### RStanARM (R)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/rstanarm)](http://cran.r-project.org/package=rstanarm) [![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/rstanarm?color=blue)](http://cran.r-project.org/web/packages/rstanarm)
+<br> 
+**RStanARM**
+
+[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/rstanarm)](http://cran.r-project.org/package=rstanarm) 
+[![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/rstanarm?color=blue)](http://cran.r-project.org/web/packages/rstanarm)
 
 The **rstanarm** package is for Bayesian applied regression modeling (ARM) via Stan. 
 It is an appendage to the **rstan** package that enables some of the
@@ -56,8 +56,10 @@ optimization. The **rstanarm** package allows these models to be
 [**CRAN**](https://cran.r-project.org/package=rstanarm) | 
 [**source code on GitHub**](https://github.com/stan-dev/rstanarm)
 
-#### ShinyStan (R)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/shinystan)](http://cran.r-project.org/package=shinystan) [![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/shinystan?color=blue)](http://cran.r-project.org/web/packages/shinystan)
+<br> 
+**ShinyStan**
+[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/shinystan)](http://cran.r-project.org/package=shinystan) 
+[![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/shinystan?color=blue)](http://cran.r-project.org/web/packages/shinystan)
 
 The **shinystan** R package provides a graphical user interface providing 
 interactive visual and numerical summaries of model parameters and convergence 
@@ -67,7 +69,9 @@ diagnostics for Bayesian models estimated using MCMC.
 [**CRAN**](https://cran.r-project.org/package=shinystan) | 
 [**source code on GitHub**](https://github.com/stan-dev/shinystan)
 
-#### BayesPlot (R)
+<br> 
+**BayesPlot**
+
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/bayesplot)](http://cran.r-project.org/package=bayesplot)
 
 The **bayesplot** R package provides a library of plotting functions for use 
@@ -82,8 +86,11 @@ A paper about **bayesplot** and visualization in the Bayesian workflow more gene
 * Jonah Gabry, Daniel Simpson, Aki Vehtari, Michael Betancourt, and Andrew Gelman. (2017). Visualization in Bayesian workflow. 
 [arXiv preprint arxiv:1709.01449](https://arxiv.org/abs/1709.01449)
 
-#### Loo (R)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/loo)](http://cran.r-project.org/package=loo) [![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/loo?color=blue)](http://cran.r-project.org/web/packages/loo)
+<br>
+**Loo**
+
+[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/loo)](http://cran.r-project.org/package=loo) 
+[![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/loo?color=blue)](http://cran.r-project.org/web/packages/loo)
 
 The **loo** R package is for efficient approximate leave-one-out cross-validation for Bayesian models.
 <br> 
