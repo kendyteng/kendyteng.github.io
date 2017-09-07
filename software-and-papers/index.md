@@ -28,6 +28,7 @@ The **rstan** package is the [R](https://www.r-project.org) interface to Stan.
 [**source code on GitHub**](https://github.com/stan-dev/rstan)
 
 <br> 
+
 **RStanTools**
 
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/rstantools)](http://cran.r-project.org/package=rstantools)[![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/rstantools?color=blue)](http://cran.r-project.org/web/packages/rstantools)
@@ -39,6 +40,7 @@ The **rstantools** R package provides tools for developing R packages interfacin
 [**source code on GitHub**](https://github.com/stan-dev/rstantools)
 
 <br> 
+
 **RStanARM**
 
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/rstanarm)](http://cran.r-project.org/package=rstanarm) 
@@ -57,6 +59,7 @@ optimization. The **rstanarm** package allows these models to be
 [**source code on GitHub**](https://github.com/stan-dev/rstanarm)
 
 <br> 
+
 **ShinyStan**
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/shinystan)](http://cran.r-project.org/package=shinystan) 
 [![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/shinystan?color=blue)](http://cran.r-project.org/web/packages/shinystan)
@@ -70,6 +73,7 @@ diagnostics for Bayesian models estimated using MCMC.
 [**source code on GitHub**](https://github.com/stan-dev/shinystan)
 
 <br> 
+
 **BayesPlot**
 
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/bayesplot)](http://cran.r-project.org/package=bayesplot)[![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/bayesplot?color=blue)](http://cran.r-project.org/web/packages/bayesplot)
@@ -87,6 +91,7 @@ A paper about **bayesplot** and visualization in the Bayesian workflow more gene
 [arXiv preprint arxiv:1709.01449](https://arxiv.org/abs/1709.01449)
 
 <br>
+
 **Loo**
 
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/loo)](http://cran.r-project.org/package=loo) 
