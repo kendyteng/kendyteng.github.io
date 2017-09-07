@@ -30,7 +30,7 @@ The **rstan** package is the [R](https://www.r-project.org) interface to Stan.
 <br> 
 **RStanTools**
 
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/rstantools)](http://cran.r-project.org/package=rstantools)
+[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/rstantools)](http://cran.r-project.org/package=rstantools)[![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/rstantools?color=blue)](http://cran.r-project.org/web/packages/rstantools)
 
 The **rstantools** R package provides tools for developing R packages interfacing with Stan.
 <br> 
@@ -72,7 +72,7 @@ diagnostics for Bayesian models estimated using MCMC.
 <br> 
 **BayesPlot**
 
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/bayesplot)](http://cran.r-project.org/package=bayesplot)
+[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/bayesplot)](http://cran.r-project.org/package=bayesplot)[![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/bayesplot?color=blue)](http://cran.r-project.org/web/packages/bayesplot)
 
 The **bayesplot** R package provides a library of plotting functions for use 
 after fitting Bayesian models (typically with MCMC).
@@ -105,4 +105,3 @@ The package implements the methods described in these papers with Aki and Andrew
 
 * Aki Vehtari, Andrew Gelman, and Jonah Gabry. (2016). Pareto smoothed importance sampling. 
 [arXiv preprint arxiv:1507.02646](https://arxiv.org/abs/1507.02646)
-
