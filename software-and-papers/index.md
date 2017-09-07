@@ -20,7 +20,8 @@ command line, R and Python (and more).
 
 ### R packages 
 
-#### RStan (R)
+**RStan**
+
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/rstan)](http://cran.r-project.org/package=rstan) [![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/rstan?color=blue)](http://cran.r-project.org/web/packages/rstan)
 
 The [R](https://www.r-project.org) interface to Stan.
