@@ -3,7 +3,7 @@ title: Software and papers
 layout: default
 ---
 
-### Stan
+## Stan
 
 **Stan** is a statistical modeling language along with inference algorithms for full
 Bayesian inference, approximate Bayesian inference, and penalized maximum likelihood
@@ -17,7 +17,7 @@ command line, R and Python (and more).
 * [Stan Development Team](http://mc-stan.org/team/)
 
 
-### R packages
+## R packages
 
 **RStan** [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/rstan)](http://cran.r-project.org/package=rstan)[![RStudio_CRAN_mirror_downloads_badge](http://cranlogs.r-pkg.org/badges/grand-total/rstan?color=blue)](http://cran.r-project.org/web/packages/rstan)
 
