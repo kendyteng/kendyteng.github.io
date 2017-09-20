@@ -16,7 +16,7 @@ Bayesian statistics and Stan.
 
 [[<i class="fa fa-envelope-o"></i>](mailto:jonah.sol.gabry@columbia.edu){: .awe-ico }]
 [[<i class="fa fa-git"></i>](https://github.com/jgabry){: .awe-ico }]
-<!-- [[<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/jonahgabry/){: .awe-ico }] -->
+[[<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/jonahgabry/){: .awe-ico }]
 
 
 [<i class="fa fa-info"></i>](/software-and-papers/){: .awe-ico }  [Software work and related papers](/software-and-papers/)      
