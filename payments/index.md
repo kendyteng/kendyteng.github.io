@@ -1,9 +1,7 @@
 ---
-title: 
+title: Jonah Sol Gabry
 layout: default
 ---
-
-# Jonah Sol Gabry
 
 Statistician and [Stan](http://mc-stan.org) developer at Columbia University in New York.
 
