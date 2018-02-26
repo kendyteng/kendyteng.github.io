@@ -3,6 +3,13 @@ title: Software and papers
 layout: default
 ---
 
+**Jump to:**      
+* [Stan](#stan)
+* [R packages](#r-packages)
+* [Papers](#papers)
+
+<hr>
+
 ## Stan
 
 **Stan** is a statistical modeling language along with inference algorithms for full
@@ -110,3 +117,18 @@ The package implements the methods described in these papers with Aki and Andrew
 
 * Aki Vehtari, Andrew Gelman, and Jonah Gabry. (2016). Pareto smoothed importance sampling.
 [arXiv preprint arxiv:1507.02646](https://arxiv.org/abs/1507.02646)
+
+
+## Papers
+
+Some papers are behind academic paywalls unfortunately, but here are a few that are freely available as arXiv preprints:  
+
+* [Visualization in Bayesian workflow](https://arxiv.org/pdf/1709.01449)       
+     - Jonah Gabry, Daniel Simpson, Aki Vehtari, Michael Betancourt, Andrew Gelman
+* [Practical Bayesian model evaluation using leave-one-out cross-validation and WAIC](https://arxiv.org/pdf/1507.04544)     
+     - Aki Vehtari, Andrew Gelman, Jonah Gabry
+* [Pareto Smoothed Importance Sampling](https://arxiv.org/pdf/1507.02646)      
+     - Aki Vehtari, Andrew Gelman, Jonah Gabry
+* [Bayesian hierarchical weighting adjustment and survey inference](https://arxiv.org/pdf/1707.08220)     
+     - Yajuan Si, Rob Trangucci, Jonah Gabry, Andrew Gelman
+
