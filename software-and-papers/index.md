@@ -3,7 +3,7 @@ title: Jonah Sol Gabry
 layout: default
 ---
 
-# Software and papers
+## Software and papers
 
 **Jump to:**      
 * [Stan](#stan)
