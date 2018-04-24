@@ -9,7 +9,7 @@ layout: default
 * [Stan](#stan)
 * [R packages](#r-packages)
 * [Papers](#papers)
-* [Tutorials and educational materials](#vignettes)
+* [Tutorials and educational materials](#tutorials)
 
 <hr>
 
@@ -140,7 +140,7 @@ Some papers are behind academic paywalls unfortunately, but here are a few that 
 
 
 
-## [Tutorials and educational materials](#vignettes)
+## Tutorials and educational materials
 
 A selection of tutorials on practical topics in Bayesian data analysis.
 These are some of the vignettes I've written to include with our R packages.
