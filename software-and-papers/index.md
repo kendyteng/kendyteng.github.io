@@ -9,7 +9,7 @@ layout: default
 * [Stan](#stan)
 * [R packages](#r-packages)
 * [Papers](#papers)
-* [Tutorials and educational materials](#tutorials)
+* [Tutorials and educational materials](#tutorials-and-educational-materials)
 
 <hr>
 
