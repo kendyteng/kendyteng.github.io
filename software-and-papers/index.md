@@ -9,6 +9,7 @@ layout: default
 * [Stan](#stan)
 * [R packages](#r-packages)
 * [Papers](#papers)
+* [Tutorials and educational materials](#vignettes)
 
 <hr>
 
@@ -133,4 +134,39 @@ Some papers are behind academic paywalls unfortunately, but here are a few that 
      - Aki Vehtari, Andrew Gelman, Jonah Gabry
 * [Bayesian hierarchical weighting adjustment and survey inference](https://arxiv.org/pdf/1707.08220)     
      - Yajuan Si, Rob Trangucci, Jonah Gabry, Andrew Gelman
+* [User-friendly Bayesian regression modeling: A tutorial with rstanarm and shinystan](https://www.tqmp.org/RegularArticles/vol14-2/p099/p099.pdf)
+     - Chelsea Muth, Zita Oravecz, Jonah Gabry
 
+
+
+
+## [Tutorials and educational materials](#vignettes)
+
+A selection of tutorials on practical topics in Bayesian data analysis.
+These are some of the vignettes I've written to include with our R packages.
+
+
+#### Visualization
+
+* [Visual MCMC diagnostics](http://mc-stan.org/bayesplot/articles/visual-mcmc-diagnostics.html)
+* [Plotting MCMC draws](http://mc-stan.org/bayesplot/articles/plotting-mcmc-draws.html)
+* [Graphical posterior predictive checks](http://mc-stan.org/bayesplot/articles/graphical-ppcs.html)
+
+#### Bayesian regression modeling with **rstanarm**
+
+* [GLMs for Binary/Binomial Data](http://mc-stan.org/rstanarm/articles/binomial.html)
+* [GLMs for Continuous Data](http://mc-stan.org/rstanarm/articles/continuous.html)
+* [GLMs for Count Data with rstanarm](http://mc-stan.org/rstanarm/articles/count.html)
+* [Generalized (Non-)Linear Models with Group-Specific Terms](http://mc-stan.org/rstanarm/articles/glmer.html)
+* [Bayesian ANOVA Models](http://mc-stan.org/rstanarm/articles/aov.html)
+* [Regularized Linear Models](http://mc-stan.org/rstanarm/articles/lm.html)
+* [Ordinal Regression Models](http://mc-stan.org/rstanarm/articles/polr.html)
+* [Hierarchical Partial Pooling for Repeated Binary Trials](http://mc-stan.org/rstanarm/articles/pooling.html)
+* [Modeling Rates/Proportions using Beta Regression](http://mc-stan.org/rstanarm/articles/betareg.html)
+
+#### Predictive performance and model comparison
+
+* [Using the loo package (version >= 2.0.0)](http://mc-stan.org/loo/articles/loo2-example.html)
+* [Bayesian Stacking and Pseudo-BMA weights](http://mc-stan.org/loo/articles/loo2-weights.html)
+* [Writing Stan programs for use with the loo package](http://mc-stan.org/loo/articles/loo2-with-rstan.html)
+* [Leave-one-out cross-validation for non-factorizable models](http://mc-stan.org/loo/articles/loo2-non-factorizable.html)
