@@ -21,4 +21,4 @@ Bayesian statistics and Stan.
 
 [<i class="fa fa-info"></i>](/software-and-papers/){: .awe-ico } [Software, papers and educational materials](/software-and-papers/)        
 [<i class="fa fa-info"></i>](http://mc-stan.org){: .awe-ico } [Stan website](http://mc-stan.org)     
-[<i class="fa fa-info"></i>](http://andrewgelman.com){: .awe-ico } [Andrew Gelman's blog (occasional guest posts)](http://andrewgelman.com)
+[<i class="fa fa-info"></i>](http://andrewgelman.com){: .awe-ico } [Andrew Gelman's blog (occasional guest posts)](http://andrewgelman.com/author/jonah-sol-gabry/)
