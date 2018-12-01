@@ -128,7 +128,7 @@ The package implements the methods described in these papers with Aki and Andrew
 * [[2018] User-friendly Bayesian regression modeling: A tutorial with rstanarm and shinystan](https://www.tqmp.org/RegularArticles/vol14-2/p099/p099.pdf). _The Quantitative Methods for Psychology_. (Chelsea Muth, Zita Oravecz, Jonah Gabry)
 * [[2018] Bayesian hierarchical models for predicting individual performance in soccer](https://www.degruyter.com/view/j/jqas.2018.14.issue-3/jqas-2017-0066/jqas-2017-0066.xml). _Journal of Quantitative Analysis in Sports_. (Leonardo Egidi and Jonah Gabry)
 * [[2017] Practical Bayesian model evaluation using leave-one-out cross-validation and WAIC](https://arxiv.org/pdf/1507.04544). _Statistics and Computing_. (Aki Vehtari, Andrew Gelman, and Jonah Gabry) 
-* [[2017] Antiemetic prophylaxis as a marker of health care disparities in the National Anesthesia Clinical Outcomes Registry(https://www.ncbi.nlm.nih.gov/pubmed/29116968). _Anesthesia & Analgesia_. (Michael Andreae, Jonah Gabry, Ben Goodrich, Robert White, Charles Hall)
+* [[2017] Antiemetic prophylaxis as a marker of health care disparities in the National Anesthesia Clinical Outcomes Registry](https://www.ncbi.nlm.nih.gov/pubmed/29116968). _Anesthesia & Analgesia_. (Michael Andreae, Jonah Gabry, Ben Goodrich, Robert White, Charles Hall)
 * [[2017] A pragmatic trial to improve ddherence with scheduled appointments in an inner-city pain clinic by human phone calls in the patient’s preferred language](https://www.ncbi.nlm.nih.gov/pubmed/28841451). _Journal of Clinical Anesthesia_. (Michael Andreae, Singh Nair, Jonah Gabry, Ben Goodrich, Charles Hall, Naum Shaparin)
 
 
