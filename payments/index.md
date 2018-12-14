@@ -3,7 +3,7 @@ title: Jonah Sol Gabry
 layout: default
 ---
 
-Statistician and [Stan](http://mc-stan.org) developer at Columbia University in New York.
+Statistician and [Stan](https://mc-stan.org) developer at Columbia University in New York.
 
 I also provide statistical consulting and teach workshops and courses on
 Bayesian statistics and Stan.
@@ -14,8 +14,8 @@ Bayesian statistics and Stan.
 
 
 [<i class="fa fa-info"></i>](/software-and-papers/){: .awe-ico }  [Software work and related papers](/software-and-papers/)      
-[<i class="fa fa-info"></i>](http://andrewgelman.com){: .awe-ico }  [Andrew Gelman's blog (occasional guest posts)](http://andrewgelman.com)      
-[<i class="fa fa-info"></i>](http://mc-stan.org){: .awe-ico }  [Stan website](http://mc-stan.org)
+[<i class="fa fa-info"></i>](https://andrewgelman.com){: .awe-ico }  [Andrew Gelman's blog (occasional guest posts)](https://andrewgelman.com)      
+[<i class="fa fa-info"></i>](https://mc-stan.org){: .awe-ico }  [Stan website](https://mc-stan.org)
 
 
 
