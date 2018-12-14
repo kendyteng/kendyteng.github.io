@@ -21,10 +21,10 @@ estimation. Stan is implemented in C++ but we provide interfaces for the
 command line, R and Python (and more).
 <br>
 
-* [Stan website](http://mc-stan.org)
-* [The Stan Forums](http://discourse.mc-stan.org) (on Discourse)
+* [Stan website](https://mc-stan.org)
+* [The Stan Forums](https://discourse.mc-stan.org) (on Discourse)
 * [stan-dev GitHub organization](https://github.com/stan-dev)
-* [Stan Development Team](http://mc-stan.org/team/)
+* [Stan Development Team](https://mc-stan.org/team/)
 
 
 ## R packages
@@ -33,7 +33,7 @@ command line, R and Python (and more).
 
 The **rstan** package is the [R](https://www.r-project.org) interface to Stan.
 <br>
-[**website**](http://mc-stan.org/rstan) |
+[**website**](https://mc-stan.org/rstan) |
 [**CRAN**](https://cran.r-project.org/package=rstan) |
 [**source code on GitHub**](https://github.com/stan-dev/rstan)
 
@@ -45,7 +45,7 @@ The **rstan** package is the [R](https://www.r-project.org) interface to Stan.
 
 The **rstantools** R package provides tools for developing R packages interfacing with Stan.
 <br>
-[**website**](http://mc-stan.org/rstantools) |
+[**website**](https://mc-stan.org/rstantools) |
 [**CRAN**](https://cran.r-project.org/package=rstantools) |
 [**source code on GitHub**](https://github.com/stan-dev/rstantools)
 
@@ -64,7 +64,7 @@ optimization. The **rstanarm** package allows these models to be
  specified using the customary R modeling syntax (e.g., like that of
 `glm` with a `formula` and a `data.frame`).
 <br>
-[**website**](http://mc-stan.org/rstanarm) |
+[**website**](https://mc-stan.org/rstanarm) |
 [**CRAN**](https://cran.r-project.org/package=rstanarm) |
 [**source code on GitHub**](https://github.com/stan-dev/rstanarm)
 
@@ -78,7 +78,7 @@ The **shinystan** R package provides a graphical user interface providing
 interactive visual and numerical summaries of model parameters and convergence
 diagnostics for Bayesian models estimated using MCMC.
 <br>
-[**website**](http://mc-stan.org/shinystan) |
+[**website**](https://mc-stan.org/shinystan) |
 [**CRAN**](https://cran.r-project.org/package=shinystan) |
 [**source code on GitHub**](https://github.com/stan-dev/shinystan)
 
@@ -91,7 +91,7 @@ diagnostics for Bayesian models estimated using MCMC.
 The **bayesplot** R package provides a library of plotting functions for use
 after fitting Bayesian models (typically with MCMC).
 <br>
-[**website**](http://mc-stan.org/bayesplot) |
+[**website**](https://mc-stan.org/bayesplot) |
 [**CRAN**](https://cran.r-project.org/package=bayesplot) |
 [**source code on GitHub**](https://github.com/stan-dev/bayesplot)
 
@@ -109,7 +109,7 @@ A paper about **bayesplot** and visualization in the Bayesian workflow more gene
 
 The **loo** R package is for efficient approximate leave-one-out cross-validation for Bayesian models.
 <br>
-[**website**](http://mc-stan.org/loo) |
+[**website**](https://mc-stan.org/loo) |
 [**CRAN**](https://cran.r-project.org/package=loo) |
 [**source code on GitHub**](https://github.com/stan-dev/loo)
 
@@ -123,13 +123,13 @@ The package implements the methods described in these papers with Aki and Andrew
 
 ## Papers
 
-* [[2018] Visualization in Bayesian workflow](https://arxiv.org/pdf/1709.01449) (with discussion). _Journal of the Royal Statistical Society, Series A_. (Jonah Gabry, Daniel Simpson, Aki Vehtari, Michael Betancourt, Andrew Gelman)
-* [[2018] R-squared for Bayesian regression models](http://www.stat.columbia.edu/~gelman/research/published/bayes_R2_v3.pdf). _American Statistician_. (Andrew Gelman, Ben Goodrich, Jonah Gabry, Aki Vehtari) 
-* [[2018] User-friendly Bayesian regression modeling: A tutorial with rstanarm and shinystan](https://www.tqmp.org/RegularArticles/vol14-2/p099/p099.pdf). _The Quantitative Methods for Psychology_. (Chelsea Muth, Zita Oravecz, Jonah Gabry)
+* [[2018] Visualization in Bayesian workflow](https://arxiv.org/pdf/1709.01449) (with discussion). _Journal of the Royal Statistical Society A_. (Jonah Gabry, Daniel Simpson, Aki Vehtari, Michael Betancourt, Andrew Gelman)
+* [[2018] R-squared for Bayesian regression models](http://www.stat.columbia.edu/~gelman/research/published/bayes_R2_v3.pdf). _The American Statistician_. (Andrew Gelman, Ben Goodrich, Jonah Gabry, Aki Vehtari) 
+* [[2018] User-friendly Bayesian regression modeling](https://www.tqmp.org/RegularArticles/vol14-2/p099/p099.pdf). _The Quantitative Methods for Psychology_. (Chelsea Muth, Zita Oravecz, Jonah Gabry)
 * [[2018] Bayesian hierarchical models for predicting individual performance in soccer](https://www.degruyter.com/view/j/jqas.2018.14.issue-3/jqas-2017-0066/jqas-2017-0066.xml). _Journal of Quantitative Analysis in Sports_. (Leonardo Egidi and Jonah Gabry)
 * [[2017] Practical Bayesian model evaluation using leave-one-out cross-validation and WAIC](https://arxiv.org/pdf/1507.04544). _Statistics and Computing_. (Aki Vehtari, Andrew Gelman, and Jonah Gabry) 
 * [[2017] Antiemetic prophylaxis as a marker of health care disparities in the National Anesthesia Clinical Outcomes Registry](https://www.ncbi.nlm.nih.gov/pubmed/29116968). _Anesthesia & Analgesia_. (Michael Andreae, Jonah Gabry, Ben Goodrich, Robert White, Charles Hall)
-* [[2017] A pragmatic trial to improve ddherence with scheduled appointments in an inner-city pain clinic by human phone calls in the patient’s preferred language](https://www.ncbi.nlm.nih.gov/pubmed/28841451). _Journal of Clinical Anesthesia_. (Michael Andreae, Singh Nair, Jonah Gabry, Ben Goodrich, Charles Hall, Naum Shaparin)
+* [[2017] A pragmatic trial to improve adherence with scheduled appointments in an inner-city pain clinic by human phone calls in the patient’s preferred language](https://www.ncbi.nlm.nih.gov/pubmed/28841451). _Journal of Clinical Anesthesia_. (Michael Andreae, Singh Nair, Jonah Gabry, Ben Goodrich, Charles Hall, Naum Shaparin)
 
 
 Preprints: 
@@ -148,25 +148,26 @@ These are some of the vignettes I've written to include with our R packages.
 
 #### Visualization
 
-* [Visual MCMC diagnostics](http://mc-stan.org/bayesplot/articles/visual-mcmc-diagnostics.html)
-* [Plotting MCMC draws](http://mc-stan.org/bayesplot/articles/plotting-mcmc-draws.html)
-* [Graphical posterior predictive checks](http://mc-stan.org/bayesplot/articles/graphical-ppcs.html)
+* [Visual MCMC diagnostics](https://mc-stan.org/bayesplot/articles/visual-mcmc-diagnostics.html)
+* [Plotting MCMC draws](https://mc-stan.org/bayesplot/articles/plotting-mcmc-draws.html)
+* [Graphical posterior predictive checks](https://mc-stan.org/bayesplot/articles/graphical-ppcs.html)
 
 #### Bayesian regression modeling with **rstanarm**
 
-* [GLMs for Binary/Binomial Data](http://mc-stan.org/rstanarm/articles/binomial.html)
-* [GLMs for Continuous Data](http://mc-stan.org/rstanarm/articles/continuous.html)
-* [GLMs for Count Data with rstanarm](http://mc-stan.org/rstanarm/articles/count.html)
-* [Generalized (Non-)Linear Models with Group-Specific Terms](http://mc-stan.org/rstanarm/articles/glmer.html)
-* [Bayesian ANOVA Models](http://mc-stan.org/rstanarm/articles/aov.html)
-* [Regularized Linear Models](http://mc-stan.org/rstanarm/articles/lm.html)
-* [Ordinal Regression Models](http://mc-stan.org/rstanarm/articles/polr.html)
-* [Hierarchical Partial Pooling for Repeated Binary Trials](http://mc-stan.org/rstanarm/articles/pooling.html)
-* [Modeling Rates/Proportions using Beta Regression](http://mc-stan.org/rstanarm/articles/betareg.html)
+* [GLMs for Binary/Binomial Data](https://mc-stan.org/rstanarm/articles/binomial.html)
+* [GLMs for Continuous Data](https://mc-stan.org/rstanarm/articles/continuous.html)
+* [GLMs for Count Data with rstanarm](https://mc-stan.org/rstanarm/articles/count.html)
+* [Generalized (Non-)Linear Models with Group-Specific Terms](https://mc-stan.org/rstanarm/articles/glmer.html)
+* [Bayesian ANOVA Models](https://mc-stan.org/rstanarm/articles/aov.html)
+* [Regularized Linear Models](https://mc-stan.org/rstanarm/articles/lm.html)
+* [Ordinal Regression Models](https://mc-stan.org/rstanarm/articles/polr.html)
+* [Hierarchical Partial Pooling for Repeated Binary Trials](https://mc-stan.org/rstanarm/articles/pooling.html)
+* [Modeling Rates/Proportions using Beta Regression](https://mc-stan.org/rstanarm/articles/betareg.html)
 
 #### Predictive performance and model comparison
 
-* [Using the loo package (version >= 2.0.0)](http://mc-stan.org/loo/articles/loo2-example.html)
-* [Bayesian Stacking and Pseudo-BMA weights](http://mc-stan.org/loo/articles/loo2-weights.html)
-* [Writing Stan programs for use with the loo package](http://mc-stan.org/loo/articles/loo2-with-rstan.html)
-* [Leave-one-out cross-validation for non-factorizable models](http://mc-stan.org/loo/articles/loo2-non-factorizable.html)
+* [Using the loo package (version >= 2.0.0)](https://mc-stan.org/loo/articles/loo2-example.html)
+* [Bayesian Stacking and Pseudo-BMA weights](https://mc-stan.org/loo/articles/loo2-weights.html)
+* [Writing Stan programs for use with the loo package](https://mc-stan.org/loo/articles/loo2-with-rstan.html)
+* [Leave-one-out cross-validation for non-factorizable models](https://mc-stan.org/loo/articles/loo2-non-factorizable.html)
+* [Approximate leave-future-out cross-validation for time series models](https://mc-stan.org/loo/articles/loo2-lfo.html)
