@@ -123,7 +123,7 @@ The package implements the methods described in these papers with Aki and Andrew
 
 ## Papers
 
-* [[2018] Visualization in Bayesian workflow](https://arxiv.org/pdf/1709.01449) (with discussion). _Journal of the Royal Statistical Society A_. (Jonah Gabry, Daniel Simpson, Aki Vehtari, Michael Betancourt, Andrew Gelman)
+* [[2019] Visualization in Bayesian workflow](https://doi.org/10.1111/rssa.12378) (with discussion). _Journal of the Royal Statistical Society A_. (Jonah Gabry, Daniel Simpson, Aki Vehtari, Michael Betancourt, Andrew Gelman)
 * [[2018] R-squared for Bayesian regression models](http://www.stat.columbia.edu/~gelman/research/published/bayes_R2_v3.pdf). _The American Statistician_. (Andrew Gelman, Ben Goodrich, Jonah Gabry, Aki Vehtari) 
 * [[2018] User-friendly Bayesian regression modeling](https://www.tqmp.org/RegularArticles/vol14-2/p099/p099.pdf). _The Quantitative Methods for Psychology_. (Chelsea Muth, Zita Oravecz, Jonah Gabry)
 * [[2018] Bayesian hierarchical models for predicting individual performance in soccer](https://www.degruyter.com/view/j/jqas.2018.14.issue-3/jqas-2017-0066/jqas-2017-0066.xml). _Journal of Quantitative Analysis in Sports_. (Leonardo Egidi and Jonah Gabry)
@@ -134,10 +134,11 @@ The package implements the methods described in these papers with Aki and Andrew
 
 Preprints: 
 
-* [Leave-one-out cross-validation for non-factorizable normal models](https://arxiv.org/pdf/1810.10559.pdf). (Paul Bürkner, Jonah Gabry, Aki Vehtari)
-* [Using multilevel regression and poststratification to estimate dynamic public opinion](http://www.stat.columbia.edu/~gelman/research/unpublished/MRT(1).pdf). (Andrew Gelman, Jeffrey Lax, Justin Phillips, Jonah Gabry, and Robert Trangucci) 
-* [Pareto Smoothed Importance Sampling](https://arxiv.org/pdf/1507.02646). (Aki Vehtari, Andrew Gelman, Jonah Gabry)
 * [Bayesian hierarchical weighting adjustment and survey inference](https://arxiv.org/pdf/1707.08220) (Yajuan Si, Rob Trangucci, Jonah Gabry, Andrew Gelman)
+* [Leave-one-out cross-validation for non-factorizable normal models](https://arxiv.org/pdf/1810.10559.pdf). (Paul Bürkner, Jonah Gabry, Aki Vehtari)
+* [Approximate leave-future-out cross-validation for time series models](https://arxiv.org/pdf/1902.06281.pdf). (Paul Bürkner, Aki Vehtari, Jonah Gaby)
+* [Using multilevel regression and poststratification to estimate dynamic public opinion](http://www.stat.columbia.edu/~gelman/research/unpublished/MRT(1).pdf). (Andrew Gelman, Jeffrey Lax, Justin Phillips, Jonah Gabry, Robert Trangucci) 
+* [Pareto Smoothed Importance Sampling](https://arxiv.org/pdf/1507.02646). (Aki Vehtari, Andrew Gelman, Jonah Gabry)
 
 
 ## Tutorials and educational materials
