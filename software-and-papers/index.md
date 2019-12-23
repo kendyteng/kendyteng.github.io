@@ -41,18 +41,6 @@ The **rstan** package is the [R](https://www.r-project.org) interface to Stan.
 
 <br>
 
-**RStanTools**
-
-[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/rstantools)](https://cran.r-project.org/package=rstantools)[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/rstantools?color=blue)](https://cran.r-project.org/web/packages/rstantools)
-
-The **rstantools** R package provides tools for developing R packages interfacing with Stan.
-<br>
-[**website**](https://mc-stan.org/rstantools) |
-[**CRAN**](https://cran.r-project.org/package=rstantools) |
-[**source code on GitHub**](https://github.com/stan-dev/rstantools)
-
-<br>
-
 **RStanARM**
 
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/rstanarm)](https://cran.r-project.org/package=rstanarm)
@@ -124,6 +112,18 @@ The package implements the methods described in these papers with Aki and Andrew
 * Aki Vehtari, Andrew Gelman, and Jonah Gabry. (2016). Pareto smoothed importance sampling.
 [arXiv preprint arxiv:1507.02646](https://arxiv.org/abs/1507.02646)
 
+**RStanTools**
+
+[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/rstantools)](https://cran.r-project.org/package=rstantools)[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/rstantools?color=blue)](https://cran.r-project.org/web/packages/rstantools)
+
+The **rstantools** R package provides tools for developing R packages interfacing with Stan.
+<br>
+[**website**](https://mc-stan.org/rstantools) |
+[**CRAN**](https://cran.r-project.org/package=rstantools) |
+[**source code on GitHub**](https://github.com/stan-dev/rstantools)
+
+<br>
+
 ## Papers
 
 * [[2019] Visualization in Bayesian workflow](https://doi.org/10.1111/rssa.12378) (with discussion). _Journal of the Royal Statistical Society A_. (Jonah Gabry, Daniel Simpson, Aki Vehtari, Michael Betancourt, Andrew Gelman)
@@ -158,13 +158,14 @@ A selection of tutorial vignettes on practical topics in Bayesian data analysis.
 
 * [GLMs for Binary/Binomial Data](https://mc-stan.org/rstanarm/articles/binomial.html)
 * [GLMs for Continuous Data](https://mc-stan.org/rstanarm/articles/continuous.html)
-* [GLMs for Count Data with rstanarm](https://mc-stan.org/rstanarm/articles/count.html)
+* [GLMs for Count Data](https://mc-stan.org/rstanarm/articles/count.html)
 * [Generalized (Non-)Linear Models with Group-Specific Terms](https://mc-stan.org/rstanarm/articles/glmer.html)
 * [Bayesian ANOVA Models](https://mc-stan.org/rstanarm/articles/aov.html)
 * [Regularized Linear Models](https://mc-stan.org/rstanarm/articles/lm.html)
 * [Ordinal Regression Models](https://mc-stan.org/rstanarm/articles/polr.html)
 * [Hierarchical Partial Pooling for Repeated Binary Trials](https://mc-stan.org/rstanarm/articles/pooling.html)
 * [Modeling Rates/Proportions using Beta Regression](https://mc-stan.org/rstanarm/articles/betareg.html)
+* [Multilevel regression and poststratification](https://mc-stan.org/rstanarm/articles/mrp.html)
 
 #### Predictive performance and model comparison
 
@@ -173,3 +174,4 @@ A selection of tutorial vignettes on practical topics in Bayesian data analysis.
 * [Writing Stan programs for use with the loo package](https://mc-stan.org/loo/articles/loo2-with-rstan.html)
 * [Leave-one-out cross-validation for non-factorizable models](https://mc-stan.org/loo/articles/loo2-non-factorizable.html)
 * [Approximate leave-future-out cross-validation for time series models](https://mc-stan.org/loo/articles/loo2-lfo.html)
+* [Using Leave-one-out cross-validation for large data](https://mc-stan.org/loo/articles/loo2-large-data.html)
