@@ -112,6 +112,8 @@ The package implements the methods described in these papers with Aki and Andrew
 * Aki Vehtari, Andrew Gelman, and Jonah Gabry. (2016). Pareto smoothed importance sampling.
 [arXiv preprint arxiv:1507.02646](https://arxiv.org/abs/1507.02646)
 
+<br>
+
 **RStanTools**
 
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/rstantools)](https://cran.r-project.org/package=rstantools)[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/rstantools?color=blue)](https://cran.r-project.org/web/packages/rstantools)
@@ -124,8 +126,41 @@ The **rstantools** R package provides tools for developing R packages interfacin
 
 <br>
 
+**CmdStanR**
+
+<!--
+[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/cmdstanr)](https://cran.r-project.org/package=cmdstanr)[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/cmdstanr?color=blue)](https://cran.r-project.org/web/packages/cmdstanr)
+-->
+
+The **cmdstanr** R package provides an R interface to CmdStan.
+<br>
+<!-- [**website**](https://mc-stan.org/cmdstanr) |
+[**CRAN**](https://cran.r-project.org/package=cmdstanr) |
+[**source code on GitHub**](https://github.com/stan-dev/cmdstanr) -->
+[**website**](https://mc-stan.org/cmdstanr) | [**source code on GitHub**](https://github.com/stan-dev/cmdstanr)
+
+<br>
+
+**Posterior**
+
+<!--
+[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/posterior)](https://cran.r-project.org/package=posterior)[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/posterior?color=blue)](https://cran.r-project.org/web/packages/posterior)
+-->
+
+The **posterior** R package provides efficient conversion between many different useful formats 
+of draws (samples) from posterior or prior distributions, consistent methods for operations commonly 
+performed on draws, various summaries of draws in convenient formats, and lightweight implementations 
+of state of the art posterior inference diagnostics.
+<br>
+<!--[**website**](https://mc-stan.org/posterior) |
+[**CRAN**](https://cran.r-project.org/package=posterior) |
+[**source code on GitHub**](https://github.com/stan-dev/posterior)-->
+[**website**](https://mc-stan.org/posterior) | [**source code on GitHub**](https://github.com/stan-dev/posterior)
+<br>
+
 ## Papers
 
+* [[2020] Approximate leave-future-out cross-validation for Bayesian time series models](https://arxiv.org/pdf/1902.06281.pdf). _Journal of Statistical Computation and Simulation_ (Paul Bürkner, Jonah Gabry, Aki Vehtari)
 * [[2019] Visualization in Bayesian workflow](https://doi.org/10.1111/rssa.12378) (with discussion). _Journal of the Royal Statistical Society A_. (Jonah Gabry, Daniel Simpson, Aki Vehtari, Michael Betancourt, Andrew Gelman)
 * [[2018] R-squared for Bayesian regression models](http://www.stat.columbia.edu/~gelman/research/published/bayes_R2_v3.pdf). _The American Statistician_. (Andrew Gelman, Ben Goodrich, Jonah Gabry, Aki Vehtari) 
 * [[2018] User-friendly Bayesian regression modeling](https://www.tqmp.org/RegularArticles/vol14-2/p099/p099.pdf). _The Quantitative Methods for Psychology_. (Chelsea Muth, Zita Oravecz, Jonah Gabry)
@@ -137,9 +172,8 @@ The **rstantools** R package provides tools for developing R packages interfacin
 
 Preprints: 
 
-* [Bayesian hierarchical weighting adjustment and survey inference](https://arxiv.org/pdf/1707.08220) (Yajuan Si, Rob Trangucci, Jonah Gabry, Andrew Gelman)
 * [Leave-one-out cross-validation for non-factorizable normal models](https://arxiv.org/pdf/1810.10559.pdf). (Paul Bürkner, Jonah Gabry, Aki Vehtari)
-* [Approximate leave-future-out cross-validation for time series models](https://arxiv.org/pdf/1902.06281.pdf). (Paul Bürkner, Jonah Gabry, Aki Vehtari)
+* [Bayesian hierarchical weighting adjustment and survey inference](https://arxiv.org/pdf/1707.08220) (Yajuan Si, Rob Trangucci, Jonah Gabry, Andrew Gelman)
 * [Using multilevel regression and poststratification to estimate dynamic public opinion](http://www.stat.columbia.edu/~gelman/research/unpublished/MRT(1).pdf). (Andrew Gelman, Jeffrey Lax, Justin Phillips, Jonah Gabry, Robert Trangucci) 
 * [Pareto Smoothed Importance Sampling](https://arxiv.org/pdf/1507.02646). (Aki Vehtari, Andrew Gelman, Jonah Gabry)
 
@@ -175,3 +209,7 @@ A selection of tutorial vignettes on practical topics in Bayesian data analysis.
 * [Leave-one-out cross-validation for non-factorizable models](https://mc-stan.org/loo/articles/loo2-non-factorizable.html)
 * [Approximate leave-future-out cross-validation for time series models](https://mc-stan.org/loo/articles/loo2-lfo.html)
 * [Using Leave-one-out cross-validation for large data](https://mc-stan.org/loo/articles/loo2-large-data.html)
+
+#### Developing R packages with pre-compiled Stan programs
+
+* [Step by step guide for creating a package that depends on RStan](https://mc-stan.org/rstantools/articles/minimal-rstan-package.html)
