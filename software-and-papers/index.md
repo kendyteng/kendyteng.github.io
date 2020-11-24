@@ -160,6 +160,7 @@ of state of the art posterior inference diagnostics.
 
 ## Papers
 
+* [[2020] Efficient leave-one-out cross-validation for Bayesian non-factorized normal and Student-t models](https://arxiv.org/pdf/1810.10559.pdf). _Computational Statistics_ (Paul Bürkner, Jonah Gabry, Aki Vehtari)
 * [[2020] Approximate leave-future-out cross-validation for Bayesian time series models](https://arxiv.org/pdf/1902.06281.pdf). _Journal of Statistical Computation and Simulation_ (Paul Bürkner, Jonah Gabry, Aki Vehtari)
 * [[2019] Visualization in Bayesian workflow](https://doi.org/10.1111/rssa.12378) (with discussion). _Journal of the Royal Statistical Society A_. (Jonah Gabry, Daniel Simpson, Aki Vehtari, Michael Betancourt, Andrew Gelman)
 * [[2018] R-squared for Bayesian regression models](http://www.stat.columbia.edu/~gelman/research/published/bayes_R2_v3.pdf). _The American Statistician_. (Andrew Gelman, Ben Goodrich, Jonah Gabry, Aki Vehtari) 
@@ -172,10 +173,10 @@ of state of the art posterior inference diagnostics.
 
 Preprints: 
 
-* [Leave-one-out cross-validation for non-factorizable normal models](https://arxiv.org/pdf/1810.10559.pdf). (Paul Bürkner, Jonah Gabry, Aki Vehtari)
+* [Baysian workflow](https://arxiv.org/abs/2011.01808) (Andrew Gelman, Aki Vehtari, Daniel Simpson, Charles C. Margossian, Bob Carpenter, Yuling Yao, Lauren Kennedy, Jonah Gabry, Paul-Christian Bürkner, Martin Modrák)
 * [Bayesian hierarchical weighting adjustment and survey inference](https://arxiv.org/pdf/1707.08220) (Yajuan Si, Rob Trangucci, Jonah Gabry, Andrew Gelman)
 * [Using multilevel regression and poststratification to estimate dynamic public opinion](http://www.stat.columbia.edu/~gelman/research/unpublished/MRT(1).pdf). (Andrew Gelman, Jeffrey Lax, Justin Phillips, Jonah Gabry, Robert Trangucci) 
-* [Pareto Smoothed Importance Sampling](https://arxiv.org/pdf/1507.02646). (Aki Vehtari, Andrew Gelman, Jonah Gabry)
+* [Pareto Smoothed Importance Sampling](https://arxiv.org/pdf/1507.02646). (Aki Vehtari, Daniel Simpson, Andrew Gelman, Yuling Yao, Jonah Gabry)
 
 
 ## Tutorials and educational materials
