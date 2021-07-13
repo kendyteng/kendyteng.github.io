@@ -29,7 +29,7 @@ command line, R and Python (and more).
 
 ## R packages
 
-**RStan**
+**rstan**
 
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/rstan)](https://cran.r-project.org/package=rstan)[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/rstan?color=blue)](https://cran.r-project.org/web/packages/rstan)
 
@@ -41,7 +41,7 @@ The **rstan** package is the [R](https://www.r-project.org) interface to Stan.
 
 <br>
 
-**RStanARM**
+**rstanarm**
 
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/rstanarm)](https://cran.r-project.org/package=rstanarm)
 [![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/rstanarm?color=blue)](https://cran.r-project.org/web/packages/rstanarm)
@@ -60,7 +60,7 @@ optimization. The **rstanarm** package allows these models to be
 
 <br>
 
-**ShinyStan**
+**shinystan**
 
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/shinystan)](https://cran.r-project.org/package=shinystan)
 [![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/shinystan?color=blue)](https://cran.r-project.org/web/packages/shinystan)
@@ -75,7 +75,7 @@ diagnostics for Bayesian models estimated using MCMC.
 
 <br>
 
-**BayesPlot**
+**bayesplot**
 
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/bayesplot)](https://cran.r-project.org/package=bayesplot)[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/bayesplot?color=blue)](https://cran.r-project.org/web/packages/bayesplot)
 
@@ -93,7 +93,7 @@ A paper about **bayesplot** and visualization in the Bayesian workflow more gene
 
 <br>
 
-**Loo**
+**loo**
 
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/loo)](https://cran.r-project.org/package=loo)
 [![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/loo?color=blue)](https://cran.r-project.org/web/packages/loo)
@@ -114,7 +114,7 @@ The package implements the methods described in these papers with Aki and Andrew
 
 <br>
 
-**RStanTools**
+**rstantools**
 
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/rstantools)](https://cran.r-project.org/package=rstantools)[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/rstantools?color=blue)](https://cran.r-project.org/web/packages/rstantools)
 
@@ -126,7 +126,22 @@ The **rstantools** R package provides tools for developing R packages interfacin
 
 <br>
 
-**CmdStanR**
+**posterior**
+
+[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/posterior)](https://cran.r-project.org/package=posterior)[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/posterior?color=blue)](https://cran.r-project.org/web/packages/posterior)
+
+The **posterior** R package provides efficient conversion between many different useful formats 
+of draws (samples) from posterior or prior distributions, consistent methods for operations commonly 
+performed on draws, various summaries of draws in convenient formats, and lightweight implementations 
+of state of the art posterior inference diagnostics.
+<br>
+[**website**](https://mc-stan.org/posterior) |
+[**CRAN**](https://cran.r-project.org/package=posterior) |
+[**source code on GitHub**](https://github.com/stan-dev/posterior)
+
+<br>
+
+**cmdstanr**
 
 <!--
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/cmdstanr)](https://cran.r-project.org/package=cmdstanr)[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/cmdstanr?color=blue)](https://cran.r-project.org/web/packages/cmdstanr)
@@ -141,22 +156,7 @@ The **cmdstanr** R package provides an R interface to CmdStan.
 
 <br>
 
-**Posterior**
 
-<!--
-[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/posterior)](https://cran.r-project.org/package=posterior)[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/posterior?color=blue)](https://cran.r-project.org/web/packages/posterior)
--->
-
-The **posterior** R package provides efficient conversion between many different useful formats 
-of draws (samples) from posterior or prior distributions, consistent methods for operations commonly 
-performed on draws, various summaries of draws in convenient formats, and lightweight implementations 
-of state of the art posterior inference diagnostics.
-<br>
-<!--[**website**](https://mc-stan.org/posterior) |
-[**CRAN**](https://cran.r-project.org/package=posterior) |
-[**source code on GitHub**](https://github.com/stan-dev/posterior)-->
-[**website**](https://mc-stan.org/posterior) | [**source code on GitHub**](https://github.com/stan-dev/posterior)
-<br>
 
 ## Papers
 
