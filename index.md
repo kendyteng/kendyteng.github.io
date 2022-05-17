@@ -3,9 +3,7 @@ title:
 layout: default
 ---
 <!--<div style="text-align:center">
-<img src ="/icons/logo2017.png" width = "20%" />
 </div>
-<br>-->
 
 # One Welfare Epidemiology Lab
 
