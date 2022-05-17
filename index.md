@@ -1,11 +1,7 @@
 ---
-title:
+title: One Welfare Epidemiology Lab
 layout: default
 ---
-<!--<div style="text-align:center">
-</div>
-
-# One Welfare Epidemiology Lab
 
 The OWEL is located at the <span><a href="http://www.vm.nchu.edu.tw/" target="_blank" rel="noopener noreferrer"> National Chung Hsing University</a></span> in Taiwan, led by Dr <span><a href="https://scholar.google.com/citations?user=FO4xM_oAAAAJ&hl=en/" target="_blank" rel="noopener noreferrer"> Kendy Tzu-yun Teng</a></span>.
 
