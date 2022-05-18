@@ -16,7 +16,7 @@ output: html_document
 
 <li>	Buendia A, Teng KT, Camino E, Dominguez L, Cruz-Lopez F. Influence of multiple physiologic factors on hematologic reference intervals in horses in Spain. Veterinary Clinical Pathology. 2021. [https://doi.org/10.1111/vcp.12965](https://doi.org/10.1111/vcp.12965).
 
-<li> Teng KT, McGreevy PD, Toribio J-ALML, Dhand NK. Positive attitudes towards feline obesity are strongly associated with ownership of obese cats. PLoS One. 2020; 15(6): e0234190. [https://doi.org/10.1371/journal.pone.0234190](https://doi.org/10.1371/journal.pone.0234190).
+<li>  Teng KT, McGreevy PD, Toribio J-ALML, Dhand NK. Positive attitudes towards feline obesity are strongly associated with ownership of obese cats. PLoS One. 2020; 15(6): e0234190. [https://doi.org/10.1371/journal.pone.0234190](https://doi.org/10.1371/journal.pone.0234190).
 
 <li>	Teng KT, Martinez M, Ugarte-Ruiz M, Barcena C, de la Torre A, Lopez G, Moreno MA, Domínguez L, Alvarez J. Spatial trends in Salmonella infection in pigs in Spain. Frontiers in Veterinary Science. 2020; 7:345. [https://doi.org/10.3389/fvets.2020.00345](https://doi.org/10.3389/fvets.2020.00345)
 
@@ -28,4 +28,4 @@ output: html_document
 
 <li>	Teng KT, McGreevy PD, Toribio J-ALML, Raubenheimer D, Kendall K, Dhand NK. Risk factors for underweight and overweight in cats in metropolitan Sydney, Australia. Preventive Veterinary Medicine. 2017;144:102–111. [https://doi.org/10.1016/j.prevetmed.2017.05.021](https://doi.org/10.1016/j.prevetmed.2017.05.021)
 
-<li>Teng KT, McGreevy PD, Toribio J-ALML, Dhand NK. Trends in popularity of some morphological traits of purebred dogs in Australia. Canine Genetics and Epidemiology. 2016;3:1–9. [https://doi.org/10.1186/s40575-016-0032-2](https://doi.org/10.1186/s40575-016-0032-2).</ol>
+<li>  Teng KT, McGreevy PD, Toribio J-ALML, Dhand NK. Trends in popularity of some morphological traits of purebred dogs in Australia. Canine Genetics and Epidemiology. 2016;3:1–9. [https://doi.org/10.1186/s40575-016-0032-2](https://doi.org/10.1186/s40575-016-0032-2).</ol>
