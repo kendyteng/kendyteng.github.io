@@ -1,6 +1,6 @@
 ---
-title: "OWEL publications"
-output: html_document
+title: OWEL publications
+layout: default
 ---
 
 ### Peer-reviewed articles
