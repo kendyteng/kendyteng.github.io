@@ -10,5 +10,6 @@ Through applying epidemiological methods, the OWEL focuses on trying to understa
 
 * [Publications](/publications/)        
 * [Projects](/projects/)
-* [Postdoc and postgrad positions](/positions/)
-* [Communications](/communications/)
+* [Lab members](/members/)
+* [Join us!](/positions/)
+* [Science communications](/communications/)
