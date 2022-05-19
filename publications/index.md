@@ -1,11 +1,6 @@
 ---
-<<<<<<< HEAD:publications/index.md
 title: OWEL publications
 layout: default
-=======
-title: "OWEL publications"
-output: default
->>>>>>> e94bd9e2742dd08f223f3dc5df062fc1dd69c49d:publications/publications.md
 ---
 
 ### Peer-reviewed articles
