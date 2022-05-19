@@ -7,7 +7,7 @@ layout: default
 
 <ol reversed>
 <li>	Teng KT, Aerts M, Jaspers S, Ugarte-Ruiz M, Moreno MA, Saez JL, Collado S, de Frutos C, Domínguez L, Alvarez J. Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain. Transboundary and Emerging Diseases. (Under review)
-<p style="height: 0.2px"></p>
+<p style="height: 0.01px"></p>
   
 <li>	Aerts M, Teng KT, Jaspers S, Alvarez J. A multicategory logit model detecting temporal changes in antimicrobial resistance. PLoS ONE. (Under review)
 <p style="height: 2px"></p>
