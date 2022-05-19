@@ -9,8 +9,7 @@ layout: default
 <li>	Teng KT, Aerts M, Jaspers S, Ugarte-Ruiz M, Moreno MA, Saez JL, Collado S, de Frutos C, Domínguez L, Alvarez J. Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain. Transboundary and Emerging Diseases. (Under review)
 
 <li>	Aerts M, Teng KT, Jaspers S, Alvarez J. A multicategory logit model detecting temporal changes in antimicrobial resistance. PLoS ONE. (Under review)
-<br>
-  
+<p style="height: 2px"></p>
 <li>	Teng KT, Pegram C, Church D, Brodbelt D, O’Neill D. Life tables providing year-by-year life expectancy and mortality for dogs in the United Kingdom. Scientific Reports. 2022; 12(1), 1-11.<span><a href="https://doi.org/10.1038/s41598-022-10341-6" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1038/s41598-022-10341-6</a></span>
 
 <li>	Teng KT, Chang CC, Tsai YL, Chiu CY, Yang CY, Chou YB, Chou CC. A stochastic assessment to quantify the risk of introduction of African swine fever virus to Taiwan via illegal pork products carried by international travellers. Transboundary and Emerging Diseases. 2021. <span><a href="https://doi.org/10.1111/tbed.14337" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1111/tbed.14337</a></span>
