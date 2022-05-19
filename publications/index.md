@@ -10,9 +10,9 @@ layout: default
 
 <li>	Aerts M, Teng KT, Jaspers S, Alvarez J. A multicategory logit model detecting temporal changes in antimicrobial resistance. PLoS ONE. (Under review)
 
-<li>	Teng KT, Pegram C, Church D, Brodbelt D, O’Neill D. Life tables providing year-by-year life expectancy and mortality for dogs in the United Kingdom. Scientific Reports. 2022; 12(1), 1-11. [https://doi.org/10.1038/s41598-022-10341-6](https://doi.org/10.1038/s41598-022-10341-6).
+<li>	Teng KT, Pegram C, Church D, Brodbelt D, O’Neill D. Life tables providing year-by-year life expectancy and mortality for dogs in the United Kingdom. Scientific Reports. 2022; 12(1), 1-11. [https://doi.org/10.1038/s41598-022-10341-6]
 
-<li>	Teng KT, Chang CC, Tsai YL, Chiu CY, Yang CY, Chou YB, Chou CC. A stochastic assessment to quantify the risk of introduction of African swine fever virus to Taiwan via illegal pork products carried by international travellers. Transboundary and Emerging Diseases. 2021. [https://doi.org/10.1111/tbed.14337](https://doi.org/10.1111/tbed.14337).
+<li>	Teng KT, Chang CC, Tsai YL, Chiu CY, Yang CY, Chou YB, Chou CC. A stochastic assessment to quantify the risk of introduction of African swine fever virus to Taiwan via illegal pork products carried by international travellers. Transboundary and Emerging Diseases. 2021. https://doi.org/10.1111/tbed.14337
 
 <li>	Buendia A, Teng KT, Camino E, Dominguez L, Cruz-Lopez F. Influence of multiple physiologic factors on hematologic reference intervals in horses in Spain. Veterinary Clinical Pathology. 2021. [https://doi.org/10.1111/vcp.12965](https://doi.org/10.1111/vcp.12965).
 
