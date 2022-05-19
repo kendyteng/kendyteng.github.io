@@ -10,6 +10,7 @@ layout: default
 
 <li>	Aerts M, Teng KT, Jaspers S, Alvarez J. A multicategory logit model detecting temporal changes in antimicrobial resistance. PLoS ONE. (Under review)
 <br>
+<br>
 <li>	Teng KT, Pegram C, Church D, Brodbelt D, O’Neill D. Life tables providing year-by-year life expectancy and mortality for dogs in the United Kingdom. Scientific Reports. 2022; 12(1), 1-11.<span><a href="https://doi.org/10.1038/s41598-022-10341-6" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1038/s41598-022-10341-6</a></span>
 
 <li>	Teng KT, Chang CC, Tsai YL, Chiu CY, Yang CY, Chou YB, Chou CC. A stochastic assessment to quantify the risk of introduction of African swine fever virus to Taiwan via illegal pork products carried by international travellers. Transboundary and Emerging Diseases. 2021. <span><a href="https://doi.org/10.1111/tbed.14337" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1111/tbed.14337</a></span>
@@ -28,4 +29,4 @@ layout: default
 
 <li>	Teng KT, McGreevy PD, Toribio J-ALML, Raubenheimer D, Kendall K, Dhand NK. Risk factors for underweight and overweight in cats in metropolitan Sydney, Australia. Preventive Veterinary Medicine. 2017;144:102–111. <span><a href="https://doi.org/10.1016/j.prevetmed.2017.05.021" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1016/j.prevetmed.2017.05.021</a></span>
 
-<li>  Teng KT, McGreevy PD, Toribio J-ALML, Dhand NK. Trends in popularity of some morphological traits of purebred dogs in Australia. Canine Genetics and Epidemiology. 2016;3:1–9. <span><a href="https://doi.org/10.1186/s40575-016-0032-2" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1186/s40575-016-0032-2</a></span></ol>
+<li>  Teng KT, McGreevy PD, Toribio J-ALML, Dhand NK. Trends in popularity of some morphological traits of purebred dogs in Australia. Canine Genetics and Epidemiology. 2016;3:1–9. <span><a href="https://doi.org/10.1186/s40575-016-0032-2" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1186/s40575-016-0032-2</a></span>
