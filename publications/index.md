@@ -7,25 +7,25 @@ layout: default
 
 <ol reversed>
 <li>	Teng KT, Aerts M, Jaspers S, Ugarte-Ruiz M, Moreno MA, Saez JL, Collado S, de Frutos C, Domínguez L, Alvarez J. Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain. Transboundary and Emerging Diseases. (Under review)
-<p style="height: 0.01em"></p>
+<p style="height: 0px"></p>
   
 <li>	Aerts M, Teng KT, Jaspers S, Alvarez J. A multicategory logit model detecting temporal changes in antimicrobial resistance. PLoS ONE. (Under review)
-<p style="height: 0.6em"></p>
+<p style="height: 1px"></p>
   
 <li>	Teng KT, Pegram C, Church D, Brodbelt D, O’Neill D. Life tables providing year-by-year life expectancy and mortality for dogs in the United Kingdom. Scientific Reports. 2022; 12(1), 1-11.<span><a href="https://doi.org/10.1038/s41598-022-10341-6" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1038/s41598-022-10341-6</a></span>
-<p style="height: 6em"></p>
+<p style="height: 1px"></p>
   
 <li>	Teng KT, Chang CC, Tsai YL, Chiu CY, Yang CY, Chou YB, Chou CC. A stochastic assessment to quantify the risk of introduction of African swine fever virus to Taiwan via illegal pork products carried by international travellers. Transboundary and Emerging Diseases. 2021. <span><a href="https://doi.org/10.1111/tbed.14337" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1111/tbed.14337</a></span>
-<p style="height: 5px"></p>
+<p style="height: 1px"></p>
   
 <li>	Buendia A, Teng KT, Camino E, Dominguez L, Cruz-Lopez F. Influence of multiple physiologic factors on hematologic reference intervals in horses in Spain. Veterinary Clinical Pathology. 2021. <span><a href="https://doi.org/10.1111/vcp.12965" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1111/vcp.12965</a></span>
-<p style="height: 20px"></p>
+<p style="height: 1px"></p>
 
 <li>  Teng KT, McGreevy PD, Toribio J-ALML, Dhand NK. Positive attitudes towards feline obesity are strongly associated with ownership of obese cats. PLoS One. 2020; 15(6): e0234190. <span><a href="https://doi.org/10.1371/journal.pone.0234190" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1371/journal.pone.0234190</a></span>
-<p style="height: 0.1px"></p>
+<p style="height: 1px"></p>
   
 <li>	Teng KT, Martinez M, Ugarte-Ruiz M, Barcena C, de la Torre A, Lopez G, Moreno MA, Domínguez L, Alvarez J. Spatial trends in Salmonella infection in pigs in Spain. Frontiers in Veterinary Science. 2020; 7:345. <span><a href="https://doi.org/10.3389/fvets.2020.00345" target="_blank" rel="noopener noreferrer"> https://doi.org/10.3389/fvets.2020.00345</a></span>
-<p style="height: 0.3px"></p>  
+<p style="height: 1px"></p>  
   
 <li>	Teng KT, Devleesschauwer B, Maertens De Noordhout C, Bennett P, McGreevy PD, Chiu PY, Toribio J-ALML, Dhand NK. Welfare-Adjusted Life Years (WALY): A novel metric of animal welfare that combines the impacts of impaired welfare and abbreviated lifespan. PLoS One. 2018;13(9):e0202580. <span><a href="https://doi.org/10.1371/journal.pone.0202580" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1371/journal.pone.0202580</a></span>
 <p style="height: 1px"></p>
