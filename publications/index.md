@@ -128,6 +128,6 @@ layout: default
 <li>	Teng KT, McGreevy PD, Toribio J-ALML, Dhand NK. Trends in popularity of some morphological traits of purebred dogs in Australia. 14th International Symposium of Veterinary Epidemiology and Economics (international), Merida, Mexico. 03–07/11/2015. *Poster presentation*.</li>
 <p style="height: 0px"></p>
 
-<li>	Teng KT. Computer-based surveillance system for companion animals in Australia. Veterinary Science Postgraduate Conference, University of Sydney, Sydney, Australia. 28–29/10/2014. 
+<li>	**Teng KT**. Computer-based surveillance system for companion animals in Australia. Veterinary Science Postgraduate Conference, University of Sydney, Sydney, Australia. 28–29/10/2014. 
 *Oral presentation*.</li>
 
