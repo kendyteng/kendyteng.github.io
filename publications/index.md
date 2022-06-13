@@ -43,7 +43,7 @@ layout: default
 <p style="height: 0px"></p>
 
 
-<h3>Invited talks</h3>
+<font size="4">Invited talks</font> 
 
 <ol reversed>
 <li>  Jan 2022: Building New Zoomality: Seeing animals as individuals, goods or threats. GIS Taiwan (Global Initiatives Symposium in Taiwan). Taipei city, Taiwan. 
