@@ -83,7 +83,7 @@ layout: default
 <li>	<strong>Teng KT</strong>, Chang CC, Chiu CY, Hsu WT, Yang CY, Tsai YL, Lai JM, Chou CC. Risk pathways of African swine fever virus from illegal pork products brought in by international travellers and factors associated with product confiscation. Chinese Society of Veterinary Sciences 2020 Symposium, Chiayi, Taiwan. 24/10/2020. <em>Oral presentation</em>.</li>
 <p style="height: 0px"></p>
 
-<li>	Iglesias I (presenter), Martínez M, Álvarez J, <strong>Teng KT</strong>, de la Torre A, Spatial distribution and temporal trends for Salmonella in pork and humans (2010–2015). I Congreso Virtual de la Sociedad Española de Epidemiología(SEE) y da Associação Portuguesa de Epidemiologia (APE). 21–23, 29, 30/10/2020. Vedio presentation.</li>
+<li>	Iglesias I (presenter), Martínez M, Álvarez J, <strong>Teng KT</strong>, de la Torre A, Spatial distribution and temporal trends for Salmonella in pork and humans (2010–2015). I Congreso Virtual de la Sociedad Española de Epidemiología(SEE) y da Associação Portuguesa de Epidemiologia (APE). 21–23, 29, 30/10/2020. <em>Video presentation</em>.</li>
 <p style="height: 0px"></p>
 
 <li>	<strong>Teng KT</strong>, Barcena C, Ugarte-Ruiz M, Martinez M, de la Torre A, Lopez G, Moreno MA, Domínguez L, Alvarez J. O, Salmonella, Where Art Thou? Modelling Salmonella infection in swine farms in Spain using Hamiltonian Monte Carlo methods. GeoVet 2019 (international), Davis, USA. 08–10/10/2019. <em>Oral presentation</em>.</li>
