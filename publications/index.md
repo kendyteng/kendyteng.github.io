@@ -39,7 +39,7 @@ layout: default
 <li>	Teng KT, McGreevy PD, Toribio J-ALML, Raubenheimer D, Kendall K, Dhand NK. Risk factors for underweight and overweight in cats in metropolitan Sydney, Australia. Preventive Veterinary Medicine. 2017;144:102–111. <span><a href="https://doi.org/10.1016/j.prevetmed.2017.05.021" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1016/j.prevetmed.2017.05.021</a></span>
 <p style="height: 0px"></p>
   
-<li>  Teng KT, McGreevy PD, Toribio J-ALML, Dhand NK. Trends in popularity of some morphological traits of purebred dogs in Australia. Canine Genetics and Epidemiology. 2016;3:1–9. <span><a href="https://doi.org/10.1186/s40575-016-0032-2" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1186/s40575-016-0032-2</a></span></ol>
+<li>  Teng KT, McGreevy PD, Toribio J-ALML, Dhand NK. Trends in popularity of some morphological traits of purebred dogs in Australia. Canine Genetics and Epidemiology. 2016;3:1–9. <span><a href="https://doi.org/10.1186/s40575-016-0032-2" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1186/s40575-016-0032-2</a></span>
 <p style="height: 0px"></p>
 
 
@@ -58,7 +58,7 @@ layout: default
 <li>	Jan 2020: Small animal welfare epidemiology. College of Veterinary Medicine, National Chung Hsing University, Taichung, Taiwan. 
 <p style="height: 0px"></p>
 
-<li>  Jan 2020: Surveillance in companion and food animals in Europe. School of Veterinary Medicine, National Taiwan University, Taipei, Taiwan.</ol>
+<li>  Jan 2020: Surveillance in companion and food animals in Europe. School of Veterinary Medicine, National Taiwan University, Taipei, Taiwan.
 <p style="height: 0px"></p>
 
 <h3>Conference presentations</h3>
@@ -125,4 +125,4 @@ layout: default
 <p style="height: 0px"></p>
 
 <li>	Teng KT. Computer-based surveillance system for companion animals in Australia. Veterinary Science Postgraduate Conference, University of Sydney, Sydney, Australia. 28–29/10/2014. 
-Oral presentation.</ol>
+Oral presentation.
