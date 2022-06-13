@@ -4,7 +4,8 @@ layout: default
 ---
   
 ### Peer-reviewed articles
-  
+
+<ul>
 <ol reversed>
 <li>	Teng KT, Aerts M, Jaspers S, Ugarte-Ruiz M, Moreno MA, Saez JL, Collado S, de Frutos C, Domínguez L, Alvarez J. Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain. Transboundary and Emerging Diseases. (Under review)
 <p style="height: 0px"></p>
@@ -43,7 +44,7 @@ layout: default
 <p style="height: 0px"></p>
 
 
-<font size="4">Invited talks</font> 
+<h3>Invited talks</h3>
 
 <ol reversed>
 <li>  Jan 2022: Building New Zoomality: Seeing animals as individuals, goods or threats. GIS Taiwan (Global Initiatives Symposium in Taiwan). Taipei city, Taiwan. 
@@ -60,9 +61,11 @@ layout: default
 
 <li>  Jan 2020: Surveillance in companion and food animals in Europe. School of Veterinary Medicine, National Taiwan University, Taipei, Taiwan.
 <p style="height: 0px"></p>
+</ul>
 
 <h3>Conference presentations</h3>
 
+<ul>
 <ol reversed>
 <li>	Teng KT, McGreevy PD, Toribio J-ALML, Dhand NK. Do positive attitudes towards feline obesity make your cats fat? Chinese Society of Veterinary Sciences 2021 Symposium, Taichung, Taiwan. 4/12/2021. Oral presentation.
 <p style="height: 0px"></p>
@@ -126,3 +129,4 @@ layout: default
 
 <li>	Teng KT. Computer-based surveillance system for companion animals in Australia. Veterinary Science Postgraduate Conference, University of Sydney, Sydney, Australia. 28–29/10/2014. 
 Oral presentation.
+</ul>
