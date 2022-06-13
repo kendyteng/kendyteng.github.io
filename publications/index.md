@@ -43,7 +43,7 @@ layout: default
 <p style="height: 0px"></p>
 
 
-### Invited talks
+<h3>Invited talks</h3>
 
 <ol reversed>
 <li>  Jan 2022: Building New Zoomality: Seeing animals as individuals, goods or threats. GIS Taiwan (Global Initiatives Symposium in Taiwan). Taipei city, Taiwan. 
@@ -61,7 +61,7 @@ layout: default
 <li>  Jan 2020: Surveillance in companion and food animals in Europe. School of Veterinary Medicine, National Taiwan University, Taipei, Taiwan.</ol>
 <p style="height: 0px"></p>
 
-### Conference presentations
+<h3>Conference presentations</h3>
 
 <ol reversed>
 <li>	Teng KT, McGreevy PD, Toribio J-ALML, Dhand NK. Do positive attitudes towards feline obesity make your cats fat? Chinese Society of Veterinary Sciences 2021 Symposium, Taichung, Taiwan. 4/12/2021. Oral presentation.
