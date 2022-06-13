@@ -2,10 +2,10 @@
 title: OWEL publications
 layout: default
 ---
-  
+
+<ul> 
 ### Peer-reviewed articles
 
-<ul>
 <ol reversed>
 <li>	Teng KT, Aerts M, Jaspers S, Ugarte-Ruiz M, Moreno MA, Saez JL, Collado S, de Frutos C, Domínguez L, Alvarez J. Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain. Transboundary and Emerging Diseases. (Under review)
 <p style="height: 0px"></p>
@@ -42,8 +42,9 @@ layout: default
   
 <li>  Teng KT, McGreevy PD, Toribio J-ALML, Dhand NK. Trends in popularity of some morphological traits of purebred dogs in Australia. Canine Genetics and Epidemiology. 2016;3:1–9. <span><a href="https://doi.org/10.1186/s40575-016-0032-2" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1186/s40575-016-0032-2</a></span>
 <p style="height: 0px"></p>
+</ul>
 
-
+<ul>
 <h3>Invited talks</h3>
 
 <ol reversed>
@@ -63,9 +64,9 @@ layout: default
 <p style="height: 0px"></p>
 </ul>
 
+<ul>
 <h3>Conference presentations</h3>
 
-<ul>
 <ol reversed>
 <li>	Teng KT, McGreevy PD, Toribio J-ALML, Dhand NK. Do positive attitudes towards feline obesity make your cats fat? Chinese Society of Veterinary Sciences 2021 Symposium, Taichung, Taiwan. 4/12/2021. Oral presentation.
 <p style="height: 0px"></p>
