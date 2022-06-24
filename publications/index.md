@@ -7,7 +7,7 @@ layout: default
 * [Invited talks](#invited-talks)
 * [Conference presentations](#conference-presentations)
 
-<br/><br/>
+<hr>
 
 ### Peer-reviewed articles
 
