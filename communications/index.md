@@ -1,10 +1,9 @@
 ---
-title: Join OWEL Lab
+title: Scientific Communication 
 layout: default
 ---
 
-We are currently looking for **research assistants**, and **postgraduate** and **undergraduate researchers** to join our lab! 
+The paper: [Life tables of annual life expectancy and mortality for companion dogs in the United Kingdom](https://www.nature.com/articles/s41598-022-10341-6), presenting life table of different dog breeds, has received great amount of media attention internationally and is in the **top 5% of all research outputs ever tracked by Altmetric**. 
 
-If you are interested in animal welfare and/or epidemiology and the OWEL Lab, please don't hesitate to contact us for more information!
 
-[[<i class="fa fa-envelope-o"></i>](mailto:kendy.t.teng@gmail.com){: .awe-ico }]
+![Book logo](/doc/assets/test.jpg)
