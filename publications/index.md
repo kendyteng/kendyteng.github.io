@@ -11,7 +11,7 @@ layout: default
 <hr>
 
 
-### Peer-reviewed articles
+## Peer-reviewed articles
 
 <ol reversed>
 <li>	<strong>Teng KT</strong>, Aerts M, Jaspers S, Ugarte-Ruiz M, Moreno MA, Saez JL, Collado S, de Frutos C, Domínguez L, Alvarez J. Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain. Transboundary and Emerging Diseases. (Under review)</li>
@@ -52,7 +52,7 @@ layout: default
 </ol>
 
 
-<h3>Invited talks</h3>
+## Invited talks
 
 <ol reversed>
 <li>  Jan 2022: Building New Zoomality: Seeing animals as individuals, goods or threats. GIS Taiwan (Global Initiatives Symposium in Taiwan). Taipei city, Taiwan.</li> 
@@ -72,7 +72,7 @@ layout: default
 </ol>
 
 
-### Conference presentations
+## Conference presentations
 
 <ol reversed>
 <li>	<strong>Teng KT</strong>, McGreevy PD, Toribio J-ALML, Dhand NK. Do positive attitudes towards feline obesity make your cats fat? Chinese Society of Veterinary Sciences 2021 Symposium, Taichung, Taiwan. 4/12/2021. <em>Oral presentation</em>.</li>
