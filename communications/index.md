@@ -8,7 +8,7 @@ layout: default
 <hr>
 
 ## Dog life tables
-The paper: <span><a href="[https://doi.org/10.1038/s41598-022-10341-6](https://www.nature.com/articles/s41598-022-10341-6)" target="_blank" rel="noopener noreferrer"> Life tables of annual life expectancy and mortality for companion dogs in the United Kingdom</a></span> presents life tables of dogs and different dog breeds in the UK.
+The paper: <span><a href="https://doi.org/10.1038/s41598-022-10341-6" target="_blank" rel="noopener noreferrer"> Life tables of annual life expectancy and mortality for companion dogs in the United Kingdom</a></span> presents life tables of dogs and different dog breeds in the UK.
 
 A life table can tell how long a dog is expected to live (i.e., life expectancy) at a certain age. 
 
