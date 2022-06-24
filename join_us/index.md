@@ -1,5 +1,5 @@
 ---
-title: Join OWEL Lab
+title: Join OWEL Lab ;)
 layout: default
 ---
 
