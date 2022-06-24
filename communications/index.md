@@ -6,4 +6,4 @@ layout: default
 The paper: [Life tables of annual life expectancy and mortality for companion dogs in the United Kingdom](https://www.nature.com/articles/s41598-022-10341-6), presenting life table of different dog breeds, has received great amount of media attention internationally and is in the **top 5% of all research outputs ever tracked by Altmetric**. 
 
 
-![Book logo](docs/assets/test.jpg)
+![Book logo](https://github.com/kendyteng/kendyteng.github.io/blob/master/docs/assets/test.jpg)
