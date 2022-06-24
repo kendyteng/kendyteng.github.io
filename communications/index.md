@@ -4,7 +4,7 @@ layout: default
 ---
 
 * [Dog life tables](#dog-life-table)
-* [Dog breed-specific life tables](#Dog-breed-specific-life-tables)
+* [Dog breed-specific life tables](#dog-breed-specific-life-tables)
 <hr>
 
 ### Dog life tables
@@ -14,11 +14,12 @@ A life table can tell how long a dog is expected to live (i.e., life expectancy)
 
 ![Infographic](infographic.png)
 
-<br></br>
+<br/><br/>
 
 ### Dog breed-specific life tables
-Here you can download the <a href="dog-breed-specific-life-tables.pdf" target="_blank">dog breed-specific life tables</a>. 
+
+We have made life tables for 18 dog breeds: **American Bulldog**, **Beagle**, **Border Collie**, **Boxer**, **Cavalier King Charles spaniel**, **Chihuahua**, **Cocker Spaniel**, **English Bulldog**, **French Bulldog**, **German Shepherd Dog**, **Husky**, **Jack Russell Terrier**, **Labrador Retriever**, **Pug**, **Shih-tzu**, **Springer Spaniel**, **Staffordshire Bull Terrier**, and **Yorkshire Terrier**.
 
 The last column of each table contains informatoin about the life expectancy at specific age of the breed. 
 
-We have tables for **American Bulldog**, **Beagle**, **Border Collie**, **Boxer**, **Cavalier King Charles spaniel**, **Chihuahua**, **Cocker Spaniel**, **English Bulldog**, **French Bulldog**, **German Shepherd Dog**, **Husky**, **Jack Russell Terrier**, **Labrador Retriever**, **Pug**, **Shih-tzu**, **Springer Spaniel**, **Staffordshire Bull Terrier**, and **Yorkshire Terrier**.
+Here you can download the <a href="dog-breed-specific-life-tables.pdf" target="_blank">dog breed-specific life tables</a>. 
