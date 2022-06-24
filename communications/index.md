@@ -22,4 +22,4 @@ We have made life tables for 18 dog breeds: **American Bulldog**, **Beagle**, **
 
 The last column of each table contains informatoin about the life expectancy at specific age of the breed. 
 
-Here you can download the <a href="dog-breed-specific-life-tables.pdf" target="_blank">dog breed-specific life tables</a>. 
+Here you can download these <a href="dog-breed-specific-life-tables.pdf" target="_blank">dog breed-specific life tables</a>. 
