@@ -3,6 +3,13 @@ title: OWEL publications
 layout: default
 ---
 
+**Jump to:**      
+* [Peer-reviewed articles](#peer-reviewed-articles)
+* [Invited talks](#invited-talks)
+* [Conference presentations](#conference-presentations)
+
+<hr>
+
 
 ### Peer-reviewed articles
 
@@ -65,7 +72,7 @@ layout: default
 </ol>
 
 
-<h3>Conference presentations</h3>
+###Conference presentations
 
 <ol reversed>
 <li>	<strong>Teng KT</strong>, McGreevy PD, Toribio J-ALML, Dhand NK. Do positive attitudes towards feline obesity make your cats fat? Chinese Society of Veterinary Sciences 2021 Symposium, Taichung, Taiwan. 4/12/2021. <em>Oral presentation</em>.</li>
