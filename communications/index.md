@@ -12,4 +12,7 @@ The paper: <span><a href="[https://doi.org/10.1038/s41598-022-10341-6](https://w
 
 ![Infographic](infographic.png)
 
+<hr>
+
 ### Dog breed-specific life tables
+<a href="dog-breed-specific-life-tables.pdf" target="_blank">PDF.</a>
