@@ -13,3 +13,5 @@ Through applying **epidemiological methods**, the OWEL focuses on trying to unde
 * [Lab members](/members/)
 * [Join us!](/join_us/)
 * [Science communications](/communications/)
+
+* [Kendy's personal site](/kendy/)
