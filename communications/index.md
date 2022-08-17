@@ -9,7 +9,7 @@ layout: default
 
 ## Dog life tables
 
-**[NEW]** You can now see the recorded talk about UK dog life tables from Dr Kendy Teng at the ISVEE 2022 from [[<i class="fas fa-dog"></i>](https://u.pcloud.link/publink/show?code=XZsiKQVZlSjbxITVOK7UN4aBNIcDebf1YREX){: .awe-ico }] 
+**[NEW]** You can now see the recorded talk about UK dog life tables from Dr Kendy Teng at the ISVEE 2022 from [[<i class="fa fa-cat"></i>](https://u.pcloud.link/publink/show?code=XZsiKQVZlSjbxITVOK7UN4aBNIcDebf1YREX){: .awe-ico }] 
 
 The paper: <span><a href="https://doi.org/10.1038/s41598-022-10341-6" target="_blank" rel="noopener noreferrer"> Life tables of annual life expectancy and mortality for companion dogs in the United Kingdom</a></span> presents life tables of dogs and different dog breeds in the UK.
 
