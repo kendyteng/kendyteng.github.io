@@ -11,6 +11,6 @@ layout: default
 We are currently looking for a grad-student-to-be to work on building life tables for cat population in the United Kingdom with us :)!
 
 ## Companion Animal Bereavement Scale
-We are currently looking for a grad-student-to-be to work on formulating a validated Companion Animal Bereavement Scale that can be used to quantify grief in the guardian (i.e., owners) who have recently expereincekd the loss of their companion animals. 
+We are currently looking for a grad-student-to-be to work on formulating a validated Companion Animal Bereavement Scale that can be used to quantify grief in the guardian (i.e., owners) who have recently expereincekd the loss of their companion animals :)!
 
 
