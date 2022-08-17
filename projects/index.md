@@ -3,7 +3,8 @@ title: OWEL Projects
 layout: default
 ---
 
-If you are interested to be part of the project, please contact us through [[<i class="fa fa-envelope-o"></i>](mailto:kendy.t.teng@gmail.com){: .awe-ico }]
+If you are interested in one of the following projects, please please contact us through [[<i class="fa fa-envelope-o"></i>](mailto:kendy.t.teng@gmail.com){: .awe-ico }] ;)
+<hr>
 
 * [Cat life tables](#cat-life-table)
 * [Companion Animal Bereavement Scale](#companion-animal-bereavement-scale)
