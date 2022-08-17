@@ -7,6 +7,7 @@ The OWEL is located at the <span><a href="http://www.vm.nchu.edu.tw/" target="_b
 Through applying **epidemiological methods**, the OWEL focuses on trying to understand and quantify the negative impact of real life **One Welfare** (**animal and human welfare**) issues, such as obesity and inherited diseases in companion dogs and cats and grief due to pet loss. 
 
 [[<i class="fa fa-envelope-o"></i>](mailto:kendy.t.teng@gmail.com){: .awe-ico }]
+[[<i class="fa fa-instagram-o"></i>](https://www.instagram.com/one_welf_epi/){: .awe-ico }]
 
 * [Publications](/publications/)        
 * [Projects](/projects/)
