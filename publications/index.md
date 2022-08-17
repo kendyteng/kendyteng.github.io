@@ -76,7 +76,7 @@ layout: default
 <li>	<strong>Teng KT</strong>*, Pegram C, Church D, Brodbelt D, O’Neill D. First life tables for companion dogs and common breeds in the United Kingdom. 16th International Symposium of Veterinary Epidemiology and Economics (international), Halifax, Canada. 7–12/08/2022. <em>Oral presentation</em>.</li>
 <p style="height: 0px"></p>
    
-<li>	<strong>Teng KT</strong>*, Aerts M, Jaspers S, Ugarte-Ruiz M, Moreno MA, Saez JL, Collado S, de Frutos C, Domínguez L, Alvarez J. Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain from 2001-2013. 16th International Symposium of Veterinary Epidemiology and Economics (international), Halifax, Canada. 7–12/08/2022. <em>Oral presentation</em>.</li>
+<li>	<strong>Teng KT</strong>*, Aerts M, Jaspers S, Ugarte-Ruiz M, Moreno MA, Saez JL, Collado S, de Frutos C, Domínguez L, Alvarez J (presenter). Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain from 2001-2013. 16th International Symposium of Veterinary Epidemiology and Economics (international), Halifax, Canada. 7–12/08/2022. <em>Oral presentation</em>.</li>
 <p style="height: 0px"></p>
 
 <li>	Green A* (presenter), <strong>Teng KT</strong>, McGreevy PD, Toribio J-ALML, Dhand NK. What Australian dog owners know about canine inherited diseases. 16th International Symposium of Veterinary Epidemiology and Economics (international), Halifax, Canada. 7–12/08/2022. <em>Oral presentation</em>.</li>
