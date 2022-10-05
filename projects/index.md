@@ -14,7 +14,7 @@ If you are interested in one of the following projects, please please contact us
 We are currently looking for a grad-student-to-be to work on formulating a validated Companion Animal Bereavement Scale that can be used to quantify grief in the guardian (i.e., owners) who have recently expereincekd the loss of their companion animals :)!
 
 ## Shelter dog Management and Welfare
-We are currently looking for a few undergraduate students or grad-students-to-be who are passionate about shelter animal welfare and management to work on this project with us! The project will involve welfare quantification of shelter dog and modelling model to optimise the number of dogs in shelters. 
+We are currently looking for a few undergraduate students or grad-students-to-be who are passionate about shelter animal welfare and management to work on this project with us! The project will involve welfare quantification of shelter dog and modelling for optimising the number of dogs in shelters. 
 
 
 
