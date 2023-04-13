@@ -8,7 +8,7 @@ layout: default
 
 <br/><br/>
 
-ＰＲＩＮＣＩＰＡＬ &emsp; ＩＮＶＥＳＴＩＧＡＴＯＲ  
+ＰＲＩＮＣＩＰＡＬ &ensp; ＩＮＶＥＳＴＩＧＡＴＯＲ  
 Kendy Tzu-yun Teng 鄧紫云
  
 ![PI_photo](PI_photo.jpeg)
