@@ -12,7 +12,7 @@ layout: default
 ### Peer-reviewed articles
 
 <ol reversed>
-<li>	Yan TY, Teng KT*. Trends in animal shelter management, adoption, and animal death in Taiwan from 2012 to 2020. Animals. 2023. (Accepted)</li>
+<li>	Yan TY, <strong>Teng KT<strong>*. Trends in animal shelter management, adoption, and animal death in Taiwan from 2012 to 2020. Animals. 2023. (Accepted)</li>
 <p style="height: 0px"></p>
 
 <li>	Aerts M*, <strong>Teng KT</strong>, Jaspers S, Alvarez J. A multicategory logit model detecting temporal changes in antimicrobial resistance. PLoS ONE. PLoS ONE. 2022; 17(12): e0277866. <span><a href="https://doi.org/10.1371/journal.pone.0277866" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1371/journal.pone.0277866</a></span></li>
