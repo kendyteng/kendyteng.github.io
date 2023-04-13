@@ -12,10 +12,13 @@ layout: default
 ### Peer-reviewed articles
 
 <ol reversed>
-<li>	Aerts M*, <strong>Teng KT</strong>, Jaspers S, Alvarez J. A multicategory logit model detecting temporal changes in antimicrobial resistance. PLoS ONE. (Under review)</li>
+<li>	1.	Yan TY, Teng KT*. Trends in animal shelter management, adoption, and animal death in Taiwan from 2012 to 2020. Animals. 2023. (Accepted)</li>
+<p style="height: 0px"></p>
+
+<li>	Aerts M*, <strong>Teng KT</strong>, Jaspers S, Alvarez J. A multicategory logit model detecting temporal changes in antimicrobial resistance. PLoS ONE. PLoS ONE. 2022; 17(12): e0277866. <span><a href="https://doi.org/10.1371/journal.pone.0277866" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1371/journal.pone.0277866</a></span></li>
 <p style="height: 0px"></p>
   
-<li>	<strong>Teng KT</strong>*, Aerts M, Jaspers S, Ugarte-Ruiz M, Moreno MA, Saez JL, Collado S, de Frutos C, Domínguez L, Alvarez J. Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain. BMC Veterinary Research. 2022 (Accepted)</li>
+<li>	<strong>Teng KT</strong>*, Aerts M, Jaspers S, Ugarte-Ruiz M, Moreno MA, Saez JL, Collado S, de Frutos C, Domínguez L, Alvarez J. Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain. BMC Veterinary Research. 2022; 18 (1), 1-17. <span><a href="https://doi.org/10.1371/journal.pone.0277866" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1371/journal.pone.0277866</a></span></li>
 <p style="height: 0px"></p>  
 
 <li>	<strong>Teng KT</strong>*, Pegram C, Church D, Brodbelt D, O’Neill D. Life tables providing year-by-year life expectancy and mortality for dogs in the United Kingdom. Scientific Reports. 2022; 12(1), 1-11.<span><a href="https://doi.org/10.1038/s41598-022-10341-6" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1038/s41598-022-10341-6</a></span></li>
@@ -53,6 +56,18 @@ layout: default
 ### Invited talks
 
 <ol reversed>
+<li>  Mar 2023: 動物倫理 (Eng: Animal Ethics). 椰林菁英計畫 (Eng: Eng-lite Program), National Taiwan University, Taipei, Taiwan.</li> 
+<p style="height: 0px"></p>
+   
+<li>  Jan 2023: Linking dog behaviours to their welfare. Unleashing Your Dog Book Club, Taiwan.</li> 
+<p style="height: 0px"></p>
+
+<li>  Dec 2022: Difficulties faced by veterinarians in the context of animal death. National Chung Hsing Univeristy, Taichung City, Taiwan.</li> 
+<p style="height: 0px"></p>
+
+<li>  Nov 2022: One Welfare Epidemiology: Caring for human, animal and environmental wellbeing. Thailand-Taiwan Bilateral Symposium on Science, Agriculture and Technology. Taichung City, Taiwan.</li> 
+<p style="height: 0px"></p>
+
 <li>  Jan 2022: Building New Zoomality: Seeing animals as individuals, goods or threats. GIS Taiwan (Global Initiatives Symposium in Taiwan). Taipei city, Taiwan.</li> 
 <p style="height: 0px"></p>
 
@@ -73,6 +88,9 @@ layout: default
 ### Conference presentations
 
 <ol reversed>
+<li>	<strong>Teng KT</strong>*. One Welfare Epidemiology: Caring for human, animal and environmental wellbeing. Thailand-Taiwan Bilateral Symposium on Science, Agriculture and Technology, Taichung City, Taiwan, 01/11/2022. <em>Oral presentation</em>.</li>
+<p style="height: 0px"></p> 
+   
 <li>	<strong>Teng KT</strong>*, Pegram C, Church D, Brodbelt D, O’Neill D. First life tables for companion dogs and common breeds in the United Kingdom. 16th International Symposium of Veterinary Epidemiology and Economics (international), Halifax, Canada. 7–12/08/2022. <em>Oral presentation</em>.</li>
 <p style="height: 0px"></p>
    
