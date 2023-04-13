@@ -10,8 +10,10 @@ layout: default
 
 <br/><br/>
  
-<center>ＰＲＩＮＣＩＰＡＬ   ＩＮＶＥＳＴＩＧＡＴＯＲ</center>
+<center>ＰＲＩＮＣＩＰＡＬ   ＩＮＶＥＳＴＩＧＡＴＯＲ: Kendy Tzu-yun Teng 鄧紫云 </center>
+<br/><br/>
  
 ![PI_photo](PI_photo.jpeg)
  
- 
+
+
