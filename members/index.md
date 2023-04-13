@@ -8,7 +8,8 @@ layout: default
 ![owel_photo](owel_photo.JPG)
 
  
-<center>ＰＲＩＮＣＩＰＡＬ   ＩＮＶＥＳＴＩＧＡＴＯＲ: Kendy Tzu-yun Teng 鄧紫云 </center>
+ＰＲＩＮＣＩＰＡＬ   ＩＮＶＥＳＴＩＧＡＴＯＲ
+Kendy Tzu-yun Teng 鄧紫云
  
 ![PI_photo](PI_photo.jpeg)
  
