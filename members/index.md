@@ -3,7 +3,7 @@ title: Lab Members
 layout: default
 ---
 
-## ＷＥ   ＡＲＥ    ＯＷＥＬＥＲＳ
+ <center> ##ＷＥ   ＡＲＥ    ＯＷＥＬＥＲＳ</center>
 
 ![owel_photo](owel_photo.JPG)
 
