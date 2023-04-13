@@ -10,6 +10,8 @@ layout: default
 
 <br/><br/>
  
-<center>ＰＲＩＮＣＩＰＡＬ   ＩＮＶＥＳＴＩＧＡＴＯＲ<center>
+<center>ＰＲＩＮＣＩＰＡＬ   ＩＮＶＥＳＴＩＧＡＴＯＲ</center>
  
-![PI photo](PI photo.jpeg)
+![PI_photo](PI_photo.jpeg)
+ 
+ 
