@@ -3,12 +3,12 @@ title: Lab Members
 layout: default
 ---
 
-## ＷＥ  ＡＲＥ   ＯＷＥLＥRＳ
+## ＷＥ   ＡＲＥ    ＯＷＥＬＥＲＳ
 
 ![owel_photo](owel_photo.JPG)
 
 <br/><br/>
  
  
- ＰＲＩＮＣＩＰＡＬ  ＩＮＶＥＳＴＩＧＡＴＯＲ
+ ＰＲＩＮＣＩＰＡＬ   ＩＮＶＥＳＴＩＧＡＴＯＲ
  
