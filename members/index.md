@@ -11,7 +11,7 @@ layout: default
 Principle &ensp; Investigator
 Kendy Tzu-yun Teng 鄧紫云
  
-![PI_photo](source **=60x40**)
+![PI_photo](PI_photo.jpeg **=60x40**)
  
 <br/><br/>
 
