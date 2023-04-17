@@ -21,7 +21,3 @@ Tsan-Ying Lin 林粲英
 ![Tsan_photo](Tsan_photo.jpg)
 
 <br/><br/>
-
-ＵＮＤＥＲＧＲＡＤ &ensp; ＩＮＶＥＳＴＩＧＡＴＯＲ  
-
-ＵＮＤＥＲＧＲＡＤ &ensp; ＩＮＶＥＳＴＩＧＡＴＯＲ  
