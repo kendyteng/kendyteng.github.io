@@ -18,6 +18,6 @@ Kendy Tzu-yun Teng 鄧紫云
 Undergrad &ensp; Investigator
 Tsan-Ying Lin 林粲英
 
-<img src="Tsan_photo.jpg" width="500" height="300" />
+<img src="Tsan_photo.jpg" width="600" height="400" />
 
 <br/><br/>
