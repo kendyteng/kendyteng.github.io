@@ -8,7 +8,7 @@ layout: default
 
 <br/><br/>
 
-Principle &ensp; Investigator <br> 
+<p><center>Principle &ensp; Investigator</center></p><br>
 Kendy Tzu-yun Teng 鄧紫云
 
 <img src="PI_photo.jpeg" width="400" height="550" />
