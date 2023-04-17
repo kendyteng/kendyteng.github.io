@@ -9,14 +9,14 @@ layout: default
 <br/><br/>
 
 <center> Principle &ensp; Investigator </center>
-<center> Kendy Tzu-yun Teng 鄧紫云 </center><br/>
+<center> Kendy Tzu-yun Teng 鄧紫云 </center>
 
 ![PI_photo](PI_photo.jpeg)
  
-<br/><br/>
+<br/>
 
 <center>Undergrad &ensp; Investigator </center>
-<center>Tsan-Ying Lin 林粲英 </center><br/>
+<center>Tsan-Ying Lin 林粲英 </center>
 
 ![Tsan_photo](Tsan_photo.jpg)
 
