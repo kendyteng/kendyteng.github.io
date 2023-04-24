@@ -7,21 +7,21 @@ layout: default
 ![owel_photo](owel_photo.JPG)<br/>
 
 ### Principle &ensp; Investigator
-**Kendy Tzu-yun Teng 鄧紫云**
+Kendy Tzu-yun Teng 鄧紫云
 
 ![PI_photo](PI_photo.jpeg)<br/>
 
-<center> Undergrad &ensp; Investigator </center>
-<center> Tsan-Ying Lin 林粲英 </center>
+### Undergrad &ensp; Investigator 
+Tsan-Ying Lin 林粲英 
 
 ![Tsan_photo](Tsan_photo.jpg)<br/>
 
-<center> Undergrad &ensp; Investigator </center>
-<center> Yan Rung Huang (Chichi) 林晏融 </center>
+### Undergrad &ensp; Investigator 
+Yan Rung Huang (Chichi) 林晏融 
 
-![Carol_photo](Carol_photo.jpg)<br/>
+![Carol_photo_1](Carol_photo_1.jpeg)<br/>
 
-<center> Undergrad &ensp; Investigator </center>
-<center> Wong Tsz Ching 王梓澄 </center>
+### Undergrad &ensp; Investigator 
+Wong Tsz Ching 王梓澄 
 
 <br/><br/>
