@@ -22,6 +22,6 @@ layout: default
 ![Carol_photo](Carol_photo.jpg)<br/>
 
 <center> Undergrad &ensp; Investigator </center>
-<center> Wong Tsz Ching 林晏融王梓澄 </center>
+<center> Wong Tsz Ching 王梓澄 </center>
 
 <br/><br/>
