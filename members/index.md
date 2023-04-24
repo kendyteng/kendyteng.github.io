@@ -6,8 +6,8 @@ layout: default
 
 ![owel_photo](owel_photo.JPG)<br/>
 
-<center> Principle &ensp; Investigator </center>
-<center> Kendy Tzu-yun Teng 鄧紫云 </center>
+### Principle &ensp; Investigator
+**Kendy Tzu-yun Teng 鄧紫云**
 
 ![PI_photo](PI_photo.jpeg)<br/>
 
