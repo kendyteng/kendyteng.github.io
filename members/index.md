@@ -19,7 +19,7 @@ Tsan-Ying Lin 林粲英
 ### Undergrad &ensp; Investigator 
 Yan Rung Huang (Chichi) 林晏融 
 
-![Carol_photo_1](Carol_photo_1.jpeg)<br/>
+![Carol_photo_1](Carol_photo_1.JPEG)<br/>
 
 ### Undergrad &ensp; Investigator 
 Wong Tsz Ching 王梓澄 
