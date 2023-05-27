@@ -17,7 +17,7 @@ Lin, Tsan-Ying 林粲英
 ![Tsan_photo](Tsan_photo.jpg)<br/>
 
 ### Undergrad &ensp; Investigator 
-Huang, Yan Rung (Chichi) 林晏融 
+Huang, Yan Rung (Chichi) 黃晏融 
 
 ![Carol_photo_1](Carol_photo_1.jpeg)<br/>
 
