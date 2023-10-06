@@ -6,7 +6,7 @@ layout: default
 ## Current Projects 
 
 <ol>
-<li><strong><font color="#805300"> Optimising the Management of Animal Population and Welfare in Public Animal Shelters (OMAPWAS) </font><strong>
+<li><strong><font color="#8A0000"> Optimising the Management of Animal Population and Welfare in Public Animal Shelters (OMAPWAS) </font></strong>
   <br>
   National Science and Technology Council, NT$2,760,000, 01/08/2023–31/07/2025
   <br>
