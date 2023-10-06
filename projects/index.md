@@ -3,8 +3,7 @@ title: OWEL Projects
 layout: default
 ---
 
-If you are interested in one of the following projects, please please contact us through [[<i class="fa fa-envelope-o"></i>](mailto:kendy.t.teng@gmail.com){: .awe-ico }] ;)
-<hr>
+If you found interested in any of our [current projects](/current-projects/), please please contact us through [[<i class="fa fa-envelope-o"></i>](mailto:kendy.t.teng@gmail.com){: .awe-ico }] ;)
 
 * [Shelter Dog Management and Welfare](#shelter-dog-management-and-welfare)
 * [Companion Animal Epidmeiology and Welfare](#companion-animal-epidmeiology-and-welfare)
