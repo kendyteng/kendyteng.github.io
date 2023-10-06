@@ -8,7 +8,7 @@ We are currently looking **postgraduate** and **undergraduate researchers** to j
 If you are interested in animal welfare and/or veterinary epidemiology and the OWEL Lab, please don't hesitate to contact us for more information!
 
 
-![Studnet_Recoruting](112_Student_Recruiting.jpg)<br/>
+![112_student_recruiting](112_student_recruiting.jpg)<br/>
 
 
 [[<i class="fa fa-envelope-o"></i>](mailto:kendy.t.teng@gmail.com){: .awe-ico }]
