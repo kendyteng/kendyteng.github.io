@@ -7,9 +7,9 @@ layout: default
 
 <li><strong> Optimising the Management of Animal Population and Welfare in Public Animal Shelters (OMAPWAS). [中文：使用數理模型優化公立收容所犬隻數量管理及福祉]. </strong>
   <br>
-  National Science and Technology Council [中文：國家科學及技術委員會]</span></li>
+  National Science and Technology Council [中文：國家科學及技術委員會]
   <br>
-  <font color=#800000>Principal investigator</font>
+  <font color=#800000>Principal investigator</font></li>
 ㄩ<p style="height: 0px"></p>
 
 
