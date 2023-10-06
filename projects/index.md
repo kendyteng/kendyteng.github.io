@@ -8,7 +8,8 @@ If you are interested in one of the following projects, please please contact us
 
 * [Shelter Dog Management and Welfare](#shelter-dog-management-and-welfare)
 * [Companion Animal Epidmeiology and Welfare](#companion-animal-epidmeiology-and-welfare)
-* [Veterinary ethics](#veterinary-ethics)
+* [Exotic Pet Welfare](#exotic-pet-welfare)
+* [Veterinary Ethics](#veterinary-ethics)
 <hr>
 
 ## Shelter dog Management and Welfare
@@ -17,11 +18,11 @@ We are currently looking for grad-students-to-be who are passionate about shelte
 ## Companion Animal Epidmeiology and Welfare
 We are currently looking for a grad-student-to-be to work on the building a passive survaillence system for diseases and welfare of companion animals!
 
+## Exotic Pet Welfare
+With the popularity of exotic pets in Taiwan, the welfare concerns of those animals become more and more obvious. We have embarked to understand the welfare situations of mammal exotic pets in Taiwan and will continute to do so for other exotic animals. 
+
 ## Veterinary Ethics
 Currently, veterinary ethics is greatly overlooked in Taiwan and many places in the world. We wish to start the conversation on veterinary ethics in Asia to promote the mental and physical health of veterinarians, companion animals and their owners. 
-
-
-
 <hr>
 
 ## Current Funded Projects 
