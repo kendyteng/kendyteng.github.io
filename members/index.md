@@ -6,18 +6,21 @@ layout: default
 
 ![owel_photo](owel_photo.JPG)<br/>
 
-### Principle &ensp; Investigator
+## Principle &ensp; Investigator
 Teng, Kendy Tzu-yun 鄧紫云
 
 ![PI_photo](PI_photo.jpeg)<br/>
 
-### Undergrad &ensp; Investigator 
+## Lab &ensp; Assistant
+
+## Undergrad &ensp; Investigator 
+
 Lin, Chen Yan 林辰晏<br/>
 
-### Undergrad &ensp; Investigator 
 Wong, Tsz Ching 王梓澄 
 
-## Previous undergrad &ensp; Investigator 
+
+## Previous &ensp; Undergrad &ensp; Investigator 
 
 Lin, Tsan-Ying 林粲英 
 
