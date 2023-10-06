@@ -10,13 +10,47 @@ layout: default
   <br>
   National Science and Technology Council [中文：國家科學及技術委員會]
   <br>
+  NT$2,760,000, 01/08/2023–31/07/2025
+  <br>
   <font color=#800000>Principal investigator</font></li>
 <p style="height: 0px"></p>
 
-</ol>
+<li><strong> General welfare state of exotic companion small mammals and the prioritized welfare issues according to Taiwanese exotic pet veterinarians. [中文：台灣小型哺乳類特寵福祉狀態及常見福祉議題之調查]. </strong>
+  <br>
+  College of Veterinary Medicine, National Chung Hsing University [中文：國立中興大學獸醫學院]
+  <br>
+  NT$100,000, 01/07/2023–30/06/2024
+  <br>
+  <font color=#800000>Principal investigator</font></li>
+<p style="height: 0px"></p>
 
-<li>	<strong>Teng KT</strong>*, Aerts M, Jaspers S, Ugarte-Ruiz M, Moreno MA, Saez JL, Collado S, de Frutos C, Domínguez L, Alvarez J. Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain. BMC Veterinary Research. 2022; 18 (1), 1-17. <span><a href="https://doi.org/10.1371/journal.pone.0277866" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1371/journal.pone.0277866</a></span></li>
-<p style="height: 0px"></p>  
+<li><strong> 「台北市鼠、兔、鳥之飼養查核標準」研析計畫 </strong>
+  <br>
+  Taipei City Animal Protection Office [中文：臺北市動物保護處]
+  <br>
+  NT$150,000. 01/02/2023–31/09/2023
+  <br>
+  <font color=#800000>Co-principal investigator</font></li>
+<p style="height: 0px"></p>
+
+<li><strong> StrayLOHAS: Stray Animals Reduction and Fulfilment of Welfare Project [中文：浪愛無國界：流浪動物減量與福祉實踐] </strong>
+  <br>
+  Ministry of Education [中文：教育部]
+  <br>
+  NT$20,900,000, 01/01/2023–31/12/2024
+  <br>
+  <font color=#800000>Sub-principal investigator</font></li>
+<p style="height: 0px"></p>
+
+<li><strong> Development of the Companion Animal Bereavement Scale (CABS) and the investigation of risk factors for high CABS scores [中文：建立喪失伴侶動物心理量表及量表結果之風險因子分析] </strong>
+  <br>
+  MNational Chung Hsing University [中文：國立中興大學]
+  <br>
+  NT$300,000, 10/01/2022–09/31/2024
+  <br>
+  <font color=#800000>Principal investigator</font></li>
+<p style="height: 0px"></p>
+</ol>
 
 
 
