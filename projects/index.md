@@ -3,6 +3,15 @@ title: OWEL Projects
 layout: default
 ---
 
+## Current Projects 
+
+<li>	<strong>Principal investigator</strong>. Optimising the Management of Animal Population and Welfare in Public Animal Shelters (OMAPWAS). [中文：使用數理模型優化公立收容所犬隻數量管理及福祉].
+<span>National Science and Technology Council [中文：國家科學及技術委員會]</span></li>
+<p style="height: 0px"></p>
+
+
+
+
 If you are interested in one of the following projects, please please contact us through [[<i class="fa fa-envelope-o"></i>](mailto:kendy.t.teng@gmail.com){: .awe-ico }] ;)
 <hr>
 
