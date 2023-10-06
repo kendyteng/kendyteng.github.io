@@ -5,10 +5,16 @@ layout: default
 
 ## Current Projects 
 
-<li>	<strong>Principal investigator</strong>. Optimising the Management of Animal Population and Welfare in Public Animal Shelters (OMAPWAS). [中文：使用數理模型優化公立收容所犬隻數量管理及福祉].
-<span>National Science and Technology Council [中文：國家科學及技術委員會]</span></li>
-<p style="height: 0px"></p>
+<li><strong> Optimising the Management of Animal Population and Welfare in Public Animal Shelters (OMAPWAS). [中文：使用數理模型優化公立收容所犬隻數量管理及福祉]. </strong>
+  <br>
+  National Science and Technology Council [中文：國家科學及技術委員會]</span></li>
+  <br>
+  <font color=#800000>Principal investigator</font>
+ㄩ<p style="height: 0px"></p>
 
+
+<li>	<strong>Teng KT</strong>*, Aerts M, Jaspers S, Ugarte-Ruiz M, Moreno MA, Saez JL, Collado S, de Frutos C, Domínguez L, Alvarez J. Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain. BMC Veterinary Research. 2022; 18 (1), 1-17. <span><a href="https://doi.org/10.1371/journal.pone.0277866" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1371/journal.pone.0277866</a></span></li>
+<p style="height: 0px"></p>  
 
 
 
