@@ -6,13 +6,11 @@ layout: default
 ## Current Projects 
 
 <ol>
-<li><strong> Optimising the Management of Animal Population and Welfare in Public Animal Shelters (OMAPWAS). [中文：使用數理模型優化公立收容所犬隻數量管理及福祉]. </strong>
+<li><font color="#FF7878"> Optimising the Management of Animal Population and Welfare in Public Animal Shelters (OMAPWAS). </font>
   <br>
-  National Science and Technology Council [中文：國家科學及技術委員會]
+  National Science and Technology Council, NT$2,760,000, 01/08/2023–31/07/2025
   <br>
-  NT$2,760,000, 01/08/2023–31/07/2025
-  <br>
-  <font color="#FF7878">Principal investigator</font></li>
+  <strong>Principal investigator</strong></li>
 <p style="height: 0px"></p>
 
 <li><strong> General welfare state of exotic companion small mammals and the prioritized welfare issues according to Taiwanese exotic pet veterinarians. [中文：台灣小型哺乳類特寵福祉狀態及常見福祉議題之調查]. </strong>
