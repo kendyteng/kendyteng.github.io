@@ -34,11 +34,9 @@ layout: default
   <strong>Sub-principal investigator</strong></li>
 <p style="height: 0px"></p>
 
-<li><strong> Development of the Companion Animal Bereavement Scale (CABS) and the investigation of risk factors for high CABS scores [中文：建立喪失伴侶動物心理量表及量表結果之風險因子分析] </strong>
+<li><strong> Development of the Companion Animal Bereavement Scale (CABS) and the investigation of risk factors for high CABS scores</strong>
   <br>
-  MNational Chung Hsing University [中文：國立中興大學]
-  <br>
-  NT$300,000, 10/01/2022–09/31/2024
+  MNational Chung Hsing University, NT$300,000, 10/01/2022–09/31/2024
   <br>
   <strong>Principal investigator</strong></li>
 <p style="height: 0px"></p>
