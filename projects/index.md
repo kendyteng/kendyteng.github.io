@@ -24,7 +24,7 @@ With the popularity of exotic pets in Taiwan, the welfare concerns of those anim
 Currently, veterinary ethics is greatly overlooked in Taiwan and many places in the world. We wish to start the conversation on veterinary ethics in Asia to promote the mental and physical health of veterinarians, companion animals and their owners. 
 <hr>
 
-## Current Funded Projects 
+### Current Funded Projects 
 
 <ol>
 <li><strong><font color="#8A0000"> Optimising the Management of Animal Population and Welfare in Public Animal Shelters (OMAPWAS) </font></strong>
