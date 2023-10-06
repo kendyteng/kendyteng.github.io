@@ -12,7 +12,7 @@ layout: default
 ### Peer-reviewed articles
 
 <ol reversed>
-<li>	Yan TY, <strong>Teng KT</strong>*. Trends in animal shelter management, adoption, and animal death in Taiwan from 2012 to 2020. Animals. 2023. (Accepted)</li>
+<li>	Yan TY, <strong>Teng KT</strong>*. Trends in animal shelter management, adoption, and animal death in Taiwan from 2012 to 2020. Animals. 2023;13(9), 1451. <span><a href="https://doi.org/10.3390/ani13091451" target="_blank" rel="noopener noreferrer"> https://doi.org/10.3390/ani13091451</a></span></li>
 <p style="height: 0px"></p>
 
 <li>	Aerts M*, <strong>Teng KT</strong>, Jaspers S, Alvarez J. A multicategory logit model detecting temporal changes in antimicrobial resistance. PLoS ONE. PLoS ONE. 2022; 17(12): e0277866. <span><a href="https://doi.org/10.1371/journal.pone.0277866" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1371/journal.pone.0277866</a></span></li>
@@ -56,6 +56,13 @@ layout: default
 ### Invited talks
 
 <ol reversed>
+
+<li>  Jul 2023: Companion Animal Welfare Epidemiology. Rakuno Gakuen University, Hokkaido, Japan.</li> 
+<p style="height: 0px"></p>
+   
+<li>  Apr 2023: One Welfare Epidemiology: Caring for the well-being of animals, humans and environment. World Veterinary Association Congress 2023, Taipei, Taiwan.</li> 
+<p style="height: 0px"></p>
+   
 <li>  Mar 2023: 動物倫理 (Eng: Animal Ethics). 椰林菁英計畫 (Eng: Eng-lite Program), National Taiwan University, Taipei, Taiwan.</li> 
 <p style="height: 0px"></p>
    
@@ -88,6 +95,9 @@ layout: default
 ### Conference presentations
 
 <ol reversed>
+   <li>  Apr 2023: One Welfare Epidemiology: Caring for the well-being of animals, humans and environment. World Veterinary Association Congress 2023, Taipei, Taiwan, 26-29/04/2023. <em>Oral presentation</em>.</li> 
+<p style="height: 0px"></p>
+   
 <li>	<strong>Teng KT</strong>*. One Welfare Epidemiology: Caring for human, animal and environmental wellbeing. Thailand-Taiwan Bilateral Symposium on Science, Agriculture and Technology, Taichung City, Taiwan, 01/11/2022. <em>Oral presentation</em>.</li>
 <p style="height: 0px"></p> 
    
