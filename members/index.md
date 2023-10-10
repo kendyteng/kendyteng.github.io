@@ -24,6 +24,8 @@ Lin, Chen Yan 林辰晏<br/>
 
 Wong, Tsz Ching 王梓澄 
 
+![twi_photo](twi_photo.jpg)<br/>
+
 Wu, Po-Ying 吳柏穎
 
 ![bo_photo](bo_photo.jpeg)<br/>
