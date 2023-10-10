@@ -13,16 +13,19 @@ Teng, Kendy Tzu-yun 鄧紫云
 
 ## Lab Assistant
 Hsieh, Irene
+
 ![irene_photo](irene_photo.jpg)<br/>
 
 ## Undergrad Investigator 
 
 Lin, Chen Yan 林辰晏<br/>
+
 ![boss_photo](boss_photo.jpg)<br/>
 
 Wong, Tsz Ching 王梓澄 
 
 Wu, Po-Ying 吳柏穎
+
 ![bo_photo](bo_photo.jpeg)<br/>
 
 <hr>
