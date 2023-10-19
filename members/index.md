@@ -18,6 +18,7 @@ Hsieh, Irene 謝宛真<br/>
 
 Mei-mei 妹妹<br/>
 
+![mei_photo](mei_photo.jpg)<br/>
 
 ## Undergrad Investigator 
 Lin, Chen Yan 林辰晏<br/>
@@ -40,7 +41,11 @@ Wong, Tsz Ching 王梓澄 <br/>
 
 <hr>
 
-## Previous Undergrad Investigator 
+## Previous Lab Members
+
+Little Black 小黑<br/>
+
+![black_photo](black_photo.jpg)<br/>
 
 Lin, Tsan-Ying 林粲英 
 
