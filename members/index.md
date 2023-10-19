@@ -41,7 +41,7 @@ Wong, Tsz Ching 王梓澄 <br/>
 
 ## Previous Lab Members
 
-Little Black 小黑<br/>
+Blackie 小黑<br/>
 
 ![black_photo](black_photo.jpg)<br/>
 
