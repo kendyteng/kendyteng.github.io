@@ -29,8 +29,6 @@ Chen, Jing Yi 陳靜怡<br/>
 
 ![jean_photo](jean_photo.jpg)<br/>
 
-jean_photo.jpg
-
 Wu, Po-Ying 吳柏穎<br/>
 
 ![bo_photo](bo_photo.jpeg)<br/>
