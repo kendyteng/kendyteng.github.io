@@ -14,7 +14,7 @@ The paper: <span><a href="https://doi.org/10.1038/s41598-022-10341-6" target="_b
 </a></span> presents life tables of cats and cats of different sexes in the UK.
 
 
-A life table can tell how long a dog is expected to live (i.e., life expectancy) at a certain age. 
+A life table can tell how long a cat is expected to live (i.e., life expectancy) at a certain age. 
 
 ![Infographic_cat_lifetable](infographic_cat_lifetable.png)
 
