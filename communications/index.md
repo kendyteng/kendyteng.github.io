@@ -3,9 +3,23 @@ title: Scientific Communication
 layout: default
 ---
 
+* [Cat life tables](#cat-life-table)
 * [Dog life tables](#dog-life-table)
 * [Dog breed-specific life tables](#dog-breed-specific-life-tables)
 <hr>
+
+## Cat life tables
+
+The paper: <span><a href="https://doi.org/10.1038/s41598-022-10341-6" target="_blank" rel="noopener noreferrer"> Life tables of annual life expectancy and risk factors for mortality in cats in the UK
+</a></span> presents life tables of cats and cats of different sexes in the UK.
+
+
+A life table can tell how long a dog is expected to live (i.e., life expectancy) at a certain age. 
+
+![Infographic_cat_lifetable](infographic_cat_lifetable.png)
+
+<br/><br/>
+
 
 ## Dog life tables
 
