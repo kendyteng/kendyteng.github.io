@@ -3,8 +3,8 @@ title: Scientific Communication
 layout: default
 ---
 
-* [Cat life tables](#cat-life-table)
-* [Dog life tables](#dog-life-table)
+* [Cat life tables](#cat-life-tables)
+* [Dog life tables](#dog-life-tables)
 * [Dog breed-specific life tables](#dog-breed-specific-life-tables)
 <hr>
 
@@ -19,7 +19,6 @@ A life table can tell how long a cat is expected to live (i.e., life expectancy)
 ![Infographic_cat_lifetable](infographic_cat_lifetable.png)
 
 <br/><br/>
-
 
 ## Dog life tables
 
