@@ -12,6 +12,15 @@ layout: default
 ### Peer-reviewed articles
 
 <ol reversed>
+<li>	<strong>Teng KT</strong>, Chang CC, Hung SH, Chiou MT, Lin CN, Yang CY*. Combination of an enzyme-linked immunosorbent assay and an indirect fluorescence assay for a nationwide sero-survey of Toxoplasma gondii infection in pig herds in Taiwan. Preventive Veterinary Medicine. 2023, 106286. <span><a href="https://doi.org/10.1016/j.prevetmed.2024.106286" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1016/j.prevetmed.2024.106286</a></span></li>
+<p style="height: 0px"></p>
+
+<li>	<strong>Teng KT</strong>*, Pegram C, Church D, Brodbelt D, O’Neill D. Life tables of annual life expectancy and risk factors for mortality in cats in the UK. Journal of Feline Medicine and Surgery. 2024;26(5). <span><a href="https://doi.org/10.1177/1098612X241234556" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1177/1098612X241234556</a></span></li>
+<p style="height: 0px"></p>
+
+<li>	<strong>鄧紫云</strong>*.  動物福祉流行病學於動物福祉議題之應用. 思想. 編輯：錢永祥. 2023; 47. </li>
+<p style="height: 0px"></p>
+
 <li>	Yan TY, <strong>Teng KT</strong>*. Trends in animal shelter management, adoption, and animal death in Taiwan from 2012 to 2020. Animals. 2023;13(9), 1451. <span><a href="https://doi.org/10.3390/ani13091451" target="_blank" rel="noopener noreferrer"> https://doi.org/10.3390/ani13091451</a></span></li>
 <p style="height: 0px"></p>
 
