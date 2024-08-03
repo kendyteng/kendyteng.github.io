@@ -30,6 +30,8 @@ Lin, Chen Yan 林辰晏<br/>
 
 ![boss_photo](boss_photo.jpg)<br/>
 
+温尚樺 <br/>
+
 Chen, Jing Yi 陳靜怡<br/>
 
 ![jean_photo](jean_photo.jpg)<br/>
@@ -39,8 +41,6 @@ Wu, Po-Ying 吳柏穎<br/>
 ![bo_photo](bo_photo.jpeg)<br/>
 
 林煒軒 <br/>
-
-温尚樺 <br/>
 
 Wong, Tsz Ching 王梓澄 <br/>
 
