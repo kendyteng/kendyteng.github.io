@@ -1,9 +1,9 @@
----
+![image](https://github.com/user-attachments/assets/e0670a38-6d4f-4389-a5bf-2a43c66cb3b2)---
 title: OWEL Projects
 layout: default
 ---
 
-If you found interested in any of our [current projects](#current-funded-projects), please please contact us through [[<i class="fa fa-envelope-o"></i>](mailto:kendy.t.teng@gmail.com){: .awe-ico }])
+If you found interested in any of our [current projects](#current-funded-projects), please please contact us through [[<i class="fa fa-envelope-o"></i>](mailto:kendy.t.teng@gmail.com){: .awe-ico }]). You can also have a look at our [previous projects](#previous-projects). 
 
 * [Shelter Dog Management and Welfare](#shelter-dog-management-and-welfare)
 * [Companion Animal Epidmeiology and Welfare](#companion-animal-epidmeiology-and-welfare)
@@ -29,6 +29,14 @@ Currently, veterinary ethics is greatly overlooked in Taiwan and many places in 
 ## Current Funded Projects 
 
 <ol>
+<li><strong><font color="#8A0000"> 優化臺灣遊蕩犬管理方法之效益 (Eng: Optimise Strategies of Free-roaming Dog Population Reduction in Taiwan)
+ </font></strong>
+  <br>
+  Ministry of Agriculture, NT$2,500,000, 01/01/2024–31/12/2024
+  <br>
+  <strong>Principal investigator</strong></li>
+<p style="height: 0px"></p>
+
 <li><strong><font color="#8A0000"> Optimising the Management of Animal Population and Welfare in Public Animal Shelters (OMAPWAS) </font></strong>
   <br>
   National Science and Technology Council, NT$2,760,000, 01/08/2023–31/07/2025
@@ -41,13 +49,6 @@ Currently, veterinary ethics is greatly overlooked in Taiwan and many places in 
   College of Veterinary Medicine, National Chung Hsing University, NT$100,000, 01/07/2023–30/06/2024
   <br>
   <strong>Principal investigator</strong></li>
-<p style="height: 0px"></p>
-
-<li><strong><font color="#8A0000"> 「台北市鼠、兔、鳥之飼養查核標準」研析計畫 </font></strong>
-  <br>
-  Taipei City Animal Protection Office, NT$150,000, 01/02/2023–31/09/2023
-  <br>
-  <strong>Co-principal investigator</strong></li>
 <p style="height: 0px"></p>
 
 <li><strong><font color="#8A0000"> StrayLOHAS: Stray Animals Reduction and Fulfilment of Welfare Project  </font></strong>
@@ -66,9 +67,15 @@ Currently, veterinary ethics is greatly overlooked in Taiwan and many places in 
 </ol>
 
 
+## Previous Projects 
+<ol>
+<li><strong><font color="#8A0000"> 「台北市鼠、兔、鳥之飼養查核標準」研析計畫 </font></strong>
+  <br>
+  Taipei City Animal Protection Office, NT$150,000, 01/02/2023–31/09/2023
+  <br>
+  <strong>Co-principal investigator</strong></li>
+<p style="height: 0px"></p>
 
-
-
-
+</ol>
 
 
