@@ -12,9 +12,14 @@ Teng, Kendy Tzu-yun 鄧紫云
 ![do_photo](do_photo.jpg)<br/>
 
 ## Lab Assistant
-Hsieh, Irene 謝宛真<br/>
 
-![irene_photo](irene_photo.jpg)<br/>
+Chen, Huai-Enn 陳懷恩<br/>
+
+![enn_photo](enn_photo.jpg)<br/>
+
+Chen, Yu-Hsin 陳妤欣<br/>
+
+![yuhsing_photo](yuhsing_photo.jpg)<br/>
 
 Mei-mei 妹妹<br/>
 
@@ -32,6 +37,10 @@ Chen, Jing Yi 陳靜怡<br/>
 Wu, Po-Ying 吳柏穎<br/>
 
 ![bo_photo](bo_photo.jpeg)<br/>
+
+林煒軒 <br/>
+
+温尚樺 <br/>
 
 Wong, Tsz Ching 王梓澄 <br/>
 
@@ -52,5 +61,9 @@ Lin, Tsan-Ying 林粲英
 Huang, Yan Rung (Chichi) 黃晏融 
 
 ![Carol_photo_1](Carol_photo_1.jpeg)<br/>
+
+Hsieh, Irene 謝宛真<br/>
+
+![irene_photo](irene_photo.jpg)<br/>
 
 <br/><br/>
