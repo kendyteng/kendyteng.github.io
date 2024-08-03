@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-![23_owel](23_owel.jpg)<br/>
+![24_owel](24_owel.jpg)<br/>
 
 ## Principle Investigator
 Teng, Kendy Tzu-yun 鄧紫云
