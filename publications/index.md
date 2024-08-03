@@ -18,7 +18,7 @@ layout: default
 <li>	<strong>Teng KT</strong>*, Pegram C, Church D, Brodbelt D, O’Neill D. Life tables of annual life expectancy and risk factors for mortality in cats in the UK. Journal of Feline Medicine and Surgery. 2024;26(5). <span><a href="https://doi.org/10.1177/1098612X241234556" target="_blank" rel="noopener noreferrer"> https://doi.org/10.1177/1098612X241234556</a></span></li>
 <p style="height: 0px"></p>
 
-<li>	<strong>鄧紫云</strong>*.  動物福祉流行病學於動物福祉議題之應用. 思想. 編輯：錢永祥. 2023; 47. </li>
+<li>	<strong>鄧紫云</strong>*.  動物福祉流行病學於動物福祉議題之應用 (Eng: The application of animal welfare epidemiology to animal welfare issues). 思想. 編輯：錢永祥. 2023; 47. </li>
 <p style="height: 0px"></p>
 
 <li>	Yan TY, <strong>Teng KT</strong>*. Trends in animal shelter management, adoption, and animal death in Taiwan from 2012 to 2020. Animals. 2023;13(9), 1451. <span><a href="https://doi.org/10.3390/ani13091451" target="_blank" rel="noopener noreferrer"> https://doi.org/10.3390/ani13091451</a></span></li>
@@ -65,6 +65,20 @@ layout: default
 ### Invited talks
 
 <ol reversed>
+<li>  Jun 2024: 動物福祉評估表設計與應用 (Eng: Animal welfare assessment design and application). 展演動物飼養人基礎課程 (Eng: Exhibited animal husbandry course). Changhua city, Taiwan</li> 
+<p style="height: 0px"></p>
+
+<li>  May 2024: Owner responsibility. USR Education Courses, National Chung Hsing University, Taichung City, Taiwan.</li> 
+<p style="height: 0px"></p>
+
+<li>  May 2024: Shelter dog welfare. USR Education Courses, National Chung Hsing University, Taichung City, Taiwan.</li> 
+<p style="height: 0px"></p>
+
+<li>  Dec 2023: Stray and shelter dog related One Welfare issues. Dogwise Summit: Dialogue on Global Stray Dog-Associated One Welfare Initiatives, Strategies, and Education, Taichung City, Taiwan.</li> 
+<p style="height: 0px"></p>
+
+<li>  Dec 2023: One Welfare and Animal Welfare in Taiwan. Dare to Care Podcase.</li> 
+<p style="height: 0px"></p>
 
 <li>  Jul 2023: Companion Animal Welfare Epidemiology. Rakuno Gakuen University, Hokkaido, Japan.</li> 
 <p style="height: 0px"></p>
@@ -104,7 +118,14 @@ layout: default
 ### Conference presentations
 
 <ol reversed>
-   <li>  Apr 2023: One Welfare Epidemiology: Caring for the well-being of animals, humans and environment. World Veterinary Association Congress 2023, Taipei, Taiwan, 26-29/04/2023. <em>Oral presentation</em>.</li> 
+
+<li>  July 2024: <strong>Teng KT</strong>*, Shiu YJ, Wang SL*. The effects of veterinarian attire: from owner and veterinarian aspect. 2024 International Exhibited Animal Welfare Conference, Taipei, Taiwan, 25-26/07/2024. <em>Poster presentation.</em>.</li> 
+<p style="height: 0px"></p>
+
+<li>  Apr 2024: <strong>Teng KT</strong>*, Shiu YJ, Wang SL*. The effects of veterinarian attire: from owner and veterinarian aspect. Chulalongkorn University Veterinary Conference, Thailand, 24/04/2024. <em>Poster presentation.</em>.</li> 
+<p style="height: 0px"></p>
+
+<li>  Apr 2023: <strong>Teng KT</strong>*. One Welfare Epidemiology: Caring for the well-being of animals, humans and environment. World Veterinary Association Congress 2023, Taipei, Taiwan, 26-29/04/2023. <em>Oral presentation</em>.</li> 
 <p style="height: 0px"></p>
    
 <li>	<strong>Teng KT</strong>*. One Welfare Epidemiology: Caring for human, animal and environmental wellbeing. Thailand-Taiwan Bilateral Symposium on Science, Agriculture and Technology, Taichung City, Taiwan, 01/11/2022. <em>Oral presentation</em>.</li>
