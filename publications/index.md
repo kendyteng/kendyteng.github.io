@@ -119,13 +119,13 @@ layout: default
 
 <ol reversed>
 
-<li>  July 2024: <strong>Teng KT</strong>*, Shiu YJ, Wang SL*. The effects of veterinarian attire: from owner and veterinarian aspect. 2024 International Exhibited Animal Welfare Conference, Taipei, Taiwan, 25-26/07/2024. <em>Poster presentation.</em>.</li> 
+<li>  <strong>Teng KT</strong>*, Shiu YJ, Wang SL*. The effects of veterinarian attire: from owner and veterinarian aspect. 2024 International Exhibited Animal Welfare Conference, Taipei, Taiwan, 25-26/07/2024. <em>Poster presentation.</em>.</li> 
 <p style="height: 0px"></p>
 
-<li>  Apr 2024: <strong>Teng KT</strong>*, Shiu YJ, Wang SL*. The effects of veterinarian attire: from owner and veterinarian aspect. Chulalongkorn University Veterinary Conference, Thailand, 24/04/2024. <em>Poster presentation.</em>.</li> 
+<li>  <strong>Teng KT</strong>*, Shiu YJ, Wang SL*. The effects of veterinarian attire: from owner and veterinarian aspect. Chulalongkorn University Veterinary Conference, Thailand, 24/04/2024. <em>Poster presentation.</em>.</li> 
 <p style="height: 0px"></p>
 
-<li>  Apr 2023: <strong>Teng KT</strong>*. One Welfare Epidemiology: Caring for the well-being of animals, humans and environment. World Veterinary Association Congress 2023, Taipei, Taiwan, 26-29/04/2023. <em>Oral presentation</em>.</li> 
+<li>  <strong>Teng KT</strong>*. One Welfare Epidemiology: Caring for the well-being of animals, humans and environment. World Veterinary Association Congress 2023, Taipei, Taiwan, 26-29/04/2023. <em>Oral presentation</em>.</li> 
 <p style="height: 0px"></p>
    
 <li>	<strong>Teng KT</strong>*. One Welfare Epidemiology: Caring for human, animal and environmental wellbeing. Thailand-Taiwan Bilateral Symposium on Science, Agriculture and Technology, Taichung City, Taiwan, 01/11/2022. <em>Oral presentation</em>.</li>
