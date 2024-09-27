@@ -21,6 +21,8 @@ Chen, Yu-Hsin 陳妤欣<br/>
 
 ![yuhsing_photo](yuhsing_photo.jpg)<br/>
 
+Yeh, Hsiao-Mei 葉筱玫<br/>
+
 Mei-mei 妹妹<br/>
 
 ![mei_photo](mei_photo.jpg)<br/>
@@ -32,7 +34,7 @@ Lin, Chen Yan 林辰晏<br/>
 
 温尚樺 <br/>
 
-Chen, Jing Yi 陳靜怡<br/>
+Chen, Ching Yi 陳靜怡<br/>
 
 ![jean_photo](jean_photo.jpg)<br/>
 
