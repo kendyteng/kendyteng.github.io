@@ -16,4 +16,4 @@ Through applying **epidemiological methods**, the OWEL aims to improve both **an
 * [Science communications](/communications/)
 * [Kendy's personal site](/kendy/)
 
-![recruit_photo](student_recruiting.jpg)<br/>
+![24_master_recruiting](24_master_recruiting.png)<br/>
